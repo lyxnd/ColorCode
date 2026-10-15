@@ -20,22 +20,18 @@ Diff-Retinex/test_dataset/
 
 # ===== 推理输入/输出、实验结果（体积大、可重新生成）=====
 result/
-ReDDiT/experiments/
 ReDDiT/output/
 ReDDiT/input/
 ReDDiT/temp/
 ReDDiT/results/
-Diff-Retinex/experiments/
 Diff-Retinex/input/
 Diff-Retinex/offical_results/
 HVI-CIDNet/input/
-HVI-CIDNet/output/
 HVI-CIDNet/output_hf/
 HVI-CIDNet/pic/
 TADSR/experience/
 TADSR/output/
 TADSR/preset/datasets/
-Retinexformer/results/
 Retinexformer/experiments/
 Retinexformer/pretrained_weights/
 CWNet-Causal-Wavelet-Network/experiments/
