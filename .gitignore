@@ -40,3 +40,6 @@ desktop.ini
 
 # ===== 子目录原有的 git 仓库（已改名保留，不提交）=====
 .git_upstream/
+
+# 训练集分析脚本的模型推理缓存
+analysis/train_model_cache/
