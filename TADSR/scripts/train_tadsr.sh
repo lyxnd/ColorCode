@@ -1,0 +1,38 @@
+CUDA_VISIBLE_DEVICES="1,2"  accelerate launch --num_processes=2 --main_process_port 29501 train_tadsr.py \
+    --pretrained_model_name_or_path='./weights' \
+    --ram_path='./weights/ram_swin_large_14m.pth' \
+    --learning_rate=5e-5 \
+    --train_batch_size=2 \
+    --resolution=384 \
+    --gradient_accumulation_steps=1 \
+    --checkpointing_steps 500 \
+    --mixed_precision='fp16' \
+    --report_to "tensorboard" \
+    --seed 123 \
+    --output_dir='experience/toLLIE_brighten' \
+    --txt_path './preset/dataset_list.txt' \
+    --val_txt_path './preset/val_list.txt' \
+    --validation_steps 500 \
+    --val_timesteps 500 \
+    --best_metric psnr_gtmean \
+    --max_train_steps 25000 \
+    --use_skip \
+    --skip_gate sqrt_alpha \
+    --skip_feature_norm \
+    --lambda_noskip 1.0 \
+    --lambda_color 1.0 \
+    --skip_color_path \
+    --skip_color_pool 32 \
+    --input_brighten gain \
+    --input_brighten_target 0.4 \
+    --input_brighten_max_gain 20 \
+    --input_brighten_knee 0.8 \
+    --neg_prompt="painting, oil painting, illustration, drawing, art, sketch, cartoon, CG Style, 3D render, unreal engine, blurring, dirty, messy, worst quality, low quality, frames, watermark, signature, jpeg artifacts, deformed, lowres, over-smooth" \
+    --cfg_vsd=7.5 \
+    --lora_rank=4 \
+    --lambda_lpips=2 \
+    --lambda_l2=1 \
+    --lambda_vsd=1 \
+    --lambda_vsd_lora=1 \
+    --tracker_project_name "train_tadsr" \
+    

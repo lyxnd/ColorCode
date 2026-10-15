@@ -1,0 +1,100 @@
+/mnt/d/LOLv2/Real_captured/Test/Normal/00690.png	/mnt/d/LOLv2/Real_captured/Test/Low/00690.png	archery, arrow, bow, carpet, dart, equipment, floor, goal, grass, green, pole, room
+/mnt/d/LOLv2/Real_captured/Test/Normal/00691.png	/mnt/d/LOLv2/Real_captured/Test/Low/00691.png	archery, arrow, bow, carpet, dart, equipment, floor, goal, grass, green, pole, room
+/mnt/d/LOLv2/Real_captured/Test/Normal/00692.png	/mnt/d/LOLv2/Real_captured/Test/Low/00692.png	archery, arrow, wall, cart, curtain, dart, dartboard, display, equipment, floor, hook, luggage, pole, room, shelf, ski equipment, ski pole, sport equipment, stool, store, tool, weapon
+/mnt/d/LOLv2/Real_captured/Test/Normal/00693.png	/mnt/d/LOLv2/Real_captured/Test/Low/00693.png	archery, arrow, wall, cart, curtain, dart, dartboard, display, equipment, floor, hook, luggage, pole, room, shelf, ski equipment, ski pole, sport equipment, stool, store, tool, weapon
+/mnt/d/LOLv2/Real_captured/Test/Normal/00694.png	/mnt/d/LOLv2/Real_captured/Test/Low/00694.png	attach, bin, black, ceiling, chair, computer chair, curtain, equipment, floor, hanger, office chair, room, stool, swivel chair, tool, warehouse
+/mnt/d/LOLv2/Real_captured/Test/Normal/00695.png	/mnt/d/LOLv2/Real_captured/Test/Low/00695.png	attach, bin, black, ceiling, chair, computer chair, curtain, equipment, floor, hanger, office chair, room, stool, swivel chair, tool, warehouse
+/mnt/d/LOLv2/Real_captured/Test/Normal/00696.png	/mnt/d/LOLv2/Real_captured/Test/Low/00696.png	armchair, blue, chair, couch, table, electronic, equipment, floor, furniture, room, silverware, stool, tool, utensil
+/mnt/d/LOLv2/Real_captured/Test/Normal/00697.png	/mnt/d/LOLv2/Real_captured/Test/Low/00697.png	armchair, blue, chair, couch, table, electronic, equipment, floor, furniture, room, silverware, stool, tool, utensil
+/mnt/d/LOLv2/Real_captured/Test/Normal/00698.png	/mnt/d/LOLv2/Real_captured/Test/Low/00698.png	building, castle, display, figurine, glass wall, lego, miniature, model, showcase, sign, signage, street sign, toy, writing
+/mnt/d/LOLv2/Real_captured/Test/Normal/00699.png	/mnt/d/LOLv2/Real_captured/Test/Low/00699.png	building, castle, display, figurine, glass wall, lego, miniature, model, showcase, sign, signage, street sign, toy, writing
+/mnt/d/LOLv2/Real_captured/Test/Normal/00700.png	/mnt/d/LOLv2/Real_captured/Test/Low/00700.png	building, castle, display, figurine, glass wall, lego, miniature, model, showcase, sign, signage, street sign, toy, writing
+/mnt/d/LOLv2/Real_captured/Test/Normal/00701.png	/mnt/d/LOLv2/Real_captured/Test/Low/00701.png	building, castle, display, figurine, glass wall, lego, miniature, model, showcase, sign, signage, street sign, toy, writing
+/mnt/d/LOLv2/Real_captured/Test/Normal/00702.png	/mnt/d/LOLv2/Real_captured/Test/Low/00702.png	blind, blue, chair, classroom, table, dinning table, floor, glass wall, office building, plant, room, round table, stool, whiteboard, wood floor
+/mnt/d/LOLv2/Real_captured/Test/Normal/00703.png	/mnt/d/LOLv2/Real_captured/Test/Low/00703.png	blind, blue, chair, classroom, table, dinning table, floor, glass wall, office building, plant, room, round table, stool, whiteboard, wood floor
+/mnt/d/LOLv2/Real_captured/Test/Normal/00704.png	/mnt/d/LOLv2/Real_captured/Test/Low/00704.png	blind, blue, chair, classroom, table, dinning table, floor, glass wall, office building, plant, room, round table, stool, whiteboard, wood floor
+/mnt/d/LOLv2/Real_captured/Test/Normal/00705.png	/mnt/d/LOLv2/Real_captured/Test/Low/00705.png	blind, chair, classroom, curtain, table, dinning table, floor, oval, plant, room, round table, stool, white, whiteboard, window, wood floor
+/mnt/d/LOLv2/Real_captured/Test/Normal/00706.png	/mnt/d/LOLv2/Real_captured/Test/Low/00706.png	blind, chair, classroom, curtain, table, dinning table, floor, oval, plant, room, round table, stool, white, whiteboard, window, wood floor
+/mnt/d/LOLv2/Real_captured/Test/Normal/00707.png	/mnt/d/LOLv2/Real_captured/Test/Low/00707.png	blind, chair, classroom, curtain, table, dinning table, floor, oval, plant, room, round table, stool, white, whiteboard, window, wood floor
+/mnt/d/LOLv2/Real_captured/Test/Normal/00708.png	/mnt/d/LOLv2/Real_captured/Test/Low/00708.png	bag, bureau, cabinet, chair, closet, counter top, pad, table, dinning table, drawer, floor, hardwood floor, kitchen, kitchen counter, kitchen table, locker, messenger bag, pillow, pink, red, sink, stool, white, wood floor
+/mnt/d/LOLv2/Real_captured/Test/Normal/00709.png	/mnt/d/LOLv2/Real_captured/Test/Low/00709.png	bag, bureau, cabinet, chair, closet, counter top, pad, table, dinning table, drawer, floor, hardwood floor, kitchen, kitchen counter, kitchen table, locker, messenger bag, pillow, pink, red, sink, stool, white, wood floor
+/mnt/d/LOLv2/Real_captured/Test/Normal/00710.png	/mnt/d/LOLv2/Real_captured/Test/Low/00710.png	apartment, chair, table, dinning table, floor, hardwood, hardwood floor, kitchen, radiator, red, room, stool, wood floor
+/mnt/d/LOLv2/Real_captured/Test/Normal/00711.png	/mnt/d/LOLv2/Real_captured/Test/Low/00711.png	apartment, chair, table, dinning table, floor, hardwood, hardwood floor, kitchen, radiator, red, room, stool, wood floor
+/mnt/d/LOLv2/Real_captured/Test/Normal/00712.png	/mnt/d/LOLv2/Real_captured/Test/Low/00712.png	appliance, attach, computer, table, earphone, electronic, equipment, gadget, home appliance, ipod, microwave, mp3 player, plug, radio, room, sit, speaker, stool
+/mnt/d/LOLv2/Real_captured/Test/Normal/00713.png	/mnt/d/LOLv2/Real_captured/Test/Low/00713.png	appliance, attach, computer, table, earphone, electronic, equipment, gadget, home appliance, ipod, microwave, mp3 player, plug, radio, room, sit, speaker, stool
+/mnt/d/LOLv2/Real_captured/Test/Normal/00714.png	/mnt/d/LOLv2/Real_captured/Test/Low/00714.png	bicycle, building, lock, motorbike, office building, park, row, scooter
+/mnt/d/LOLv2/Real_captured/Test/Normal/00715.png	/mnt/d/LOLv2/Real_captured/Test/Low/00715.png	bicycle, building, lock, motorbike, office building, park, row, scooter
+/mnt/d/LOLv2/Real_captured/Test/Normal/00716.png	/mnt/d/LOLv2/Real_captured/Test/Low/00716.png	building, bust, face, head, man, sculpture, shop window, statue, window
+/mnt/d/LOLv2/Real_captured/Test/Normal/00717.png	/mnt/d/LOLv2/Real_captured/Test/Low/00717.png	building, bust, face, head, man, sculpture, shop window, statue, window
+/mnt/d/LOLv2/Real_captured/Test/Normal/00718.png	/mnt/d/LOLv2/Real_captured/Test/Low/00718.png	building, car, parking lot, couple, license plate, park, parking, sedan, suv
+/mnt/d/LOLv2/Real_captured/Test/Normal/00719.png	/mnt/d/LOLv2/Real_captured/Test/Low/00719.png	building, car, parking lot, couple, license plate, park, parking, sedan, suv
+/mnt/d/LOLv2/Real_captured/Test/Normal/00720.png	/mnt/d/LOLv2/Real_captured/Test/Low/00720.png	attach, basket, bicycle, building, line, lock, park, row
+/mnt/d/LOLv2/Real_captured/Test/Normal/00721.png	/mnt/d/LOLv2/Real_captured/Test/Low/00721.png	attach, basket, bicycle, building, line, lock, park, row
+/mnt/d/LOLv2/Real_captured/Test/Normal/00722.png	/mnt/d/LOLv2/Real_captured/Test/Low/00722.png	attach, bicycle, blanket, building, bush, hedge, ivy, parking sign, pavement, plant, sign, street sign, trim
+/mnt/d/LOLv2/Real_captured/Test/Normal/00723.png	/mnt/d/LOLv2/Real_captured/Test/Low/00723.png	attach, bicycle, blanket, building, bush, hedge, ivy, parking sign, pavement, plant, sign, street sign, trim
+/mnt/d/LOLv2/Real_captured/Test/Normal/00724.png	/mnt/d/LOLv2/Real_captured/Test/Low/00724.png	alley, building, bush, grass, stone building, tree, yard
+/mnt/d/LOLv2/Real_captured/Test/Normal/00725.png	/mnt/d/LOLv2/Real_captured/Test/Low/00725.png	alley, building, bush, grass, stone building, tree, yard
+/mnt/d/LOLv2/Real_captured/Test/Normal/00726.png	/mnt/d/LOLv2/Real_captured/Test/Low/00726.png	floor, grass, grassy, green, grow, lush, patch, plant, weed
+/mnt/d/LOLv2/Real_captured/Test/Normal/00727.png	/mnt/d/LOLv2/Real_captured/Test/Low/00727.png	floor, grass, grassy, green, grow, lush, patch, plant, weed
+/mnt/d/LOLv2/Real_captured/Test/Normal/00728.png	/mnt/d/LOLv2/Real_captured/Test/Low/00728.png	floor, grass, grassy, green, grow, lush, patch, plant, weed
+/mnt/d/LOLv2/Real_captured/Test/Normal/00729.png	/mnt/d/LOLv2/Real_captured/Test/Low/00729.png	atm, attach, building, doorway, elevator, payphone, sign, signage, writing
+/mnt/d/LOLv2/Real_captured/Test/Normal/00730.png	/mnt/d/LOLv2/Real_captured/Test/Low/00730.png	atm, attach, building, doorway, elevator, payphone, sign, signage, writing
+/mnt/d/LOLv2/Real_captured/Test/Normal/00731.png	/mnt/d/LOLv2/Real_captured/Test/Low/00731.png	air conditioner, building, cooler, fan, floor, home appliance, hose, pavement, sit, white
+/mnt/d/LOLv2/Real_captured/Test/Normal/00732.png	/mnt/d/LOLv2/Real_captured/Test/Low/00732.png	air conditioner, building, cooler, fan, floor, home appliance, hose, pavement, sit, white
+/mnt/d/LOLv2/Real_captured/Test/Normal/00733.png	/mnt/d/LOLv2/Real_captured/Test/Low/00733.png	building, pillar, door, doorway, entrance, red, sculpture, shrine, stair, statue, temple, writing
+/mnt/d/LOLv2/Real_captured/Test/Normal/00734.png	/mnt/d/LOLv2/Real_captured/Test/Low/00734.png	building, pillar, door, doorway, entrance, red, sculpture, shrine, stair, statue, temple, writing
+/mnt/d/LOLv2/Real_captured/Test/Normal/00735.png	/mnt/d/LOLv2/Real_captured/Test/Low/00735.png	bronze statue, building, man, office building, robe, sculpture, stand, statue, tree
+/mnt/d/LOLv2/Real_captured/Test/Normal/00736.png	/mnt/d/LOLv2/Real_captured/Test/Low/00736.png	bronze statue, building, man, office building, robe, sculpture, stand, statue, tree
+/mnt/d/LOLv2/Real_captured/Test/Normal/00737.png	/mnt/d/LOLv2/Real_captured/Test/Low/00737.png	bin, blue, building, floor, office building, pavement, shutter, stair, stone building
+/mnt/d/LOLv2/Real_captured/Test/Normal/00738.png	/mnt/d/LOLv2/Real_captured/Test/Low/00738.png	bin, blue, building, floor, office building, pavement, shutter, stair, stone building
+/mnt/d/LOLv2/Real_captured/Test/Normal/00739.png	/mnt/d/LOLv2/Real_captured/Test/Low/00739.png	balustrade, ceiling, floor, hang, lead to, poster, rail, sign, stair, stairwell
+/mnt/d/LOLv2/Real_captured/Test/Normal/00740.png	/mnt/d/LOLv2/Real_captured/Test/Low/00740.png	balustrade, ceiling, floor, hang, lead to, poster, rail, sign, stair, stairwell
+/mnt/d/LOLv2/Real_captured/Test/Normal/00741.png	/mnt/d/LOLv2/Real_captured/Test/Low/00741.png	building, cage, corridor, door, dressing room, enclosure, fence, floor, glass door, glass wall, hallway, office building, room, screen door, slide
+/mnt/d/LOLv2/Real_captured/Test/Normal/00742.png	/mnt/d/LOLv2/Real_captured/Test/Low/00742.png	building, cage, corridor, door, dressing room, enclosure, fence, floor, glass door, glass wall, hallway, office building, room, screen door, slide
+/mnt/d/LOLv2/Real_captured/Test/Normal/00743.png	/mnt/d/LOLv2/Real_captured/Test/Low/00743.png	basketball court, basketball hoop, building, cage, ceiling, court, curtain, dressing room, floor, gym, hall, hardwood, hardwood floor, indoor, net, room, sport equipment, warehouse, wood floor
+/mnt/d/LOLv2/Real_captured/Test/Normal/00744.png	/mnt/d/LOLv2/Real_captured/Test/Low/00744.png	basketball court, basketball hoop, building, cage, ceiling, court, curtain, dressing room, floor, gym, hall, hardwood, hardwood floor, indoor, net, room, sport equipment, warehouse, wood floor
+/mnt/d/LOLv2/Real_captured/Test/Normal/00745.png	/mnt/d/LOLv2/Real_captured/Test/Low/00745.png	basketball, basketball court, basketball game, basketball hoop, cage, court, floor, gym, indoor, net, wood floor
+/mnt/d/LOLv2/Real_captured/Test/Normal/00746.png	/mnt/d/LOLv2/Real_captured/Test/Low/00746.png	basketball, basketball court, basketball game, basketball hoop, cage, court, floor, gym, indoor, net, wood floor
+/mnt/d/LOLv2/Real_captured/Test/Normal/00747.png	/mnt/d/LOLv2/Real_captured/Test/Low/00747.png	clock, ceiling, number, indoor, pool, row, swimmer, swimming pool
+/mnt/d/LOLv2/Real_captured/Test/Normal/00748.png	/mnt/d/LOLv2/Real_captured/Test/Low/00748.png	clock, ceiling, number, indoor, pool, row, swimmer, swimming pool
+/mnt/d/LOLv2/Real_captured/Test/Normal/00749.png	/mnt/d/LOLv2/Real_captured/Test/Low/00749.png	ceiling, driveway, floor, goggles, hang, indoor, pool, sign, string, swim, swimmer, swimming pool, tile wall
+/mnt/d/LOLv2/Real_captured/Test/Normal/00750.png	/mnt/d/LOLv2/Real_captured/Test/Low/00750.png	ceiling, driveway, floor, goggles, hang, indoor, pool, sign, string, swim, swimmer, swimming pool, tile wall
+/mnt/d/LOLv2/Real_captured/Test/Normal/00751.png	/mnt/d/LOLv2/Real_captured/Test/Low/00751.png	ceiling, driveway, floor, goggles, indoor, pool, swim, swimmer, swimming pool, tile wall
+/mnt/d/LOLv2/Real_captured/Test/Normal/00752.png	/mnt/d/LOLv2/Real_captured/Test/Low/00752.png	ceiling, driveway, floor, goggles, indoor, pool, swim, swimmer, swimming pool, tile wall
+/mnt/d/LOLv2/Real_captured/Test/Normal/00753.png	/mnt/d/LOLv2/Real_captured/Test/Low/00753.png	attach, blue, wall, climber, hang, rock climbing, scale, tile wall
+/mnt/d/LOLv2/Real_captured/Test/Normal/00754.png	/mnt/d/LOLv2/Real_captured/Test/Low/00754.png	attach, blue, wall, climber, hang, rock climbing, scale, tile wall
+/mnt/d/LOLv2/Real_captured/Test/Normal/00755.png	/mnt/d/LOLv2/Real_captured/Test/Low/00755.png	attach, blue, wall, climber, hang, rock climbing, scale, tile wall
+/mnt/d/LOLv2/Real_captured/Test/Normal/00756.png	/mnt/d/LOLv2/Real_captured/Test/Low/00756.png	attach, blue, wall, climber, hang, rock climbing, scale, tile wall
+/mnt/d/LOLv2/Real_captured/Test/Normal/00757.png	/mnt/d/LOLv2/Real_captured/Test/Low/00757.png	blanket, blue, wall, ceiling, enclosure, floor, glass box, glass wall, material, room, tarp
+/mnt/d/LOLv2/Real_captured/Test/Normal/00758.png	/mnt/d/LOLv2/Real_captured/Test/Low/00758.png	blanket, blue, wall, ceiling, enclosure, floor, glass box, glass wall, material, room, tarp
+/mnt/d/LOLv2/Real_captured/Test/Normal/00759.png	/mnt/d/LOLv2/Real_captured/Test/Low/00759.png	ceiling, table, dressing room, floor, game, indoor, table tennis table, table tennis, recreation room, room
+/mnt/d/LOLv2/Real_captured/Test/Normal/00760.png	/mnt/d/LOLv2/Real_captured/Test/Low/00760.png	ceiling, table, dressing room, floor, game, indoor, table tennis table, table tennis, recreation room, room
+/mnt/d/LOLv2/Real_captured/Test/Normal/00761.png	/mnt/d/LOLv2/Real_captured/Test/Low/00761.png	blue, table, floor, table tennis table, table tennis, room, stool, wheel
+/mnt/d/LOLv2/Real_captured/Test/Normal/00762.png	/mnt/d/LOLv2/Real_captured/Test/Low/00762.png	blue, table, floor, table tennis table, table tennis, room, stool, wheel
+/mnt/d/LOLv2/Real_captured/Test/Normal/00763.png	/mnt/d/LOLv2/Real_captured/Test/Low/00763.png	floor, football field, pole, tennis court, tennis racket, yellow
+/mnt/d/LOLv2/Real_captured/Test/Normal/00764.png	/mnt/d/LOLv2/Real_captured/Test/Low/00764.png	floor, football field, pole, tennis court, tennis racket, yellow
+/mnt/d/LOLv2/Real_captured/Test/Normal/00765.png	/mnt/d/LOLv2/Real_captured/Test/Low/00765.png	arena, bleacher, blue, flag, football field, seat, stadium
+/mnt/d/LOLv2/Real_captured/Test/Normal/00766.png	/mnt/d/LOLv2/Real_captured/Test/Low/00766.png	arena, bleacher, blue, flag, football field, seat, stadium
+/mnt/d/LOLv2/Real_captured/Test/Normal/00767.png	/mnt/d/LOLv2/Real_captured/Test/Low/00767.png	bleacher, blue, chair, container, floor, plastic, row, seat, stadium
+/mnt/d/LOLv2/Real_captured/Test/Normal/00768.png	/mnt/d/LOLv2/Real_captured/Test/Low/00768.png	bleacher, blue, chair, container, floor, plastic, row, seat, stadium
+/mnt/d/LOLv2/Real_captured/Test/Normal/00769.png	/mnt/d/LOLv2/Real_captured/Test/Low/00769.png	blue, building, ceiling, pillar, corridor, floor, hall, hallway, room, tile wall
+/mnt/d/LOLv2/Real_captured/Test/Normal/00770.png	/mnt/d/LOLv2/Real_captured/Test/Low/00770.png	blue, building, ceiling, pillar, corridor, floor, hall, hallway, room, tile wall
+/mnt/d/LOLv2/Real_captured/Test/Normal/00771.png	/mnt/d/LOLv2/Real_captured/Test/Low/00771.png	array, bleacher, building, panel, roof, scaffold, solar battery, stadium
+/mnt/d/LOLv2/Real_captured/Test/Normal/00772.png	/mnt/d/LOLv2/Real_captured/Test/Low/00772.png	array, bleacher, building, panel, roof, scaffold, solar battery, stadium
+/mnt/d/LOLv2/Real_captured/Test/Normal/00773.png	/mnt/d/LOLv2/Real_captured/Test/Low/00773.png	bin, building, ceiling, pillar, corridor, floor, hall, hallway, office building
+/mnt/d/LOLv2/Real_captured/Test/Normal/00774.png	/mnt/d/LOLv2/Real_captured/Test/Low/00774.png	bin, building, ceiling, pillar, corridor, floor, hall, hallway, office building
+/mnt/d/LOLv2/Real_captured/Test/Normal/00775.png	/mnt/d/LOLv2/Real_captured/Test/Low/00775.png	arena, bleacher, blue, chair, court, indoor, racket, seat, stadium, tennis court, tennis match, tennis player, tennis racket
+/mnt/d/LOLv2/Real_captured/Test/Normal/00776.png	/mnt/d/LOLv2/Real_captured/Test/Low/00776.png	arena, bleacher, blue, chair, court, indoor, racket, seat, stadium, tennis court, tennis match, tennis player, tennis racket
+/mnt/d/LOLv2/Real_captured/Test/Normal/00777.png	/mnt/d/LOLv2/Real_captured/Test/Low/00777.png	arena, bleacher, blue, chair, court, indoor, racket, seat, stadium, tennis court, tennis match, tennis player, tennis racket
+/mnt/d/LOLv2/Real_captured/Test/Normal/00778.png	/mnt/d/LOLv2/Real_captured/Test/Low/00778.png	arena, bleacher, blue, chair, court, indoor, racket, seat, stadium, tennis court, tennis match, tennis player, tennis racket
+/mnt/d/LOLv2/Real_captured/Test/Normal/00779.png	/mnt/d/LOLv2/Real_captured/Test/Low/00779.png	blue, building, carpet, ceiling, pillar, floor, hall, hallway, mat, office building, parking garage, room, terminal, warehouse
+/mnt/d/LOLv2/Real_captured/Test/Normal/00780.png	/mnt/d/LOLv2/Real_captured/Test/Low/00780.png	blue, building, carpet, ceiling, pillar, floor, hall, hallway, mat, office building, parking garage, room, terminal, warehouse
+/mnt/d/LOLv2/Real_captured/Test/Normal/00781.png	/mnt/d/LOLv2/Real_captured/Test/Low/00781.png	bicycle, building, fence, lean, lock, park, pavement, tree
+/mnt/d/LOLv2/Real_captured/Test/Normal/00782.png	/mnt/d/LOLv2/Real_captured/Test/Low/00782.png	bicycle, building, fence, lean, lock, park, pavement, tree
+/mnt/d/LOLv2/Real_captured/Test/Normal/00783.png	/mnt/d/LOLv2/Real_captured/Test/Low/00783.png	bicycle, building, fence, lean, lock, park, pavement, tree
+/mnt/d/LOLv2/Real_captured/Test/Normal/00784.png	/mnt/d/LOLv2/Real_captured/Test/Low/00784.png	bicycle, building, fence, lean, lock, park, pavement, tree
+/mnt/d/LOLv2/Real_captured/Test/Normal/00785.png	/mnt/d/LOLv2/Real_captured/Test/Low/00785.png	bicycle, building, fence, lean, lock, park, pavement, tree
+/mnt/d/LOLv2/Real_captured/Test/Normal/00786.png	/mnt/d/LOLv2/Real_captured/Test/Low/00786.png	bicycle, building, fence, lean, lock, park, pavement, tree
+/mnt/d/LOLv2/Real_captured/Test/Normal/00787.png	/mnt/d/LOLv2/Real_captured/Test/Low/00787.png	attach, bicycle, building, pillar, curb, moped, motorbike, motorcycle, park, pavement, scooter
+/mnt/d/LOLv2/Real_captured/Test/Normal/00788.png	/mnt/d/LOLv2/Real_captured/Test/Low/00788.png	attach, bicycle, building, pillar, curb, moped, motorbike, motorcycle, park, pavement, scooter
+/mnt/d/LOLv2/Real_captured/Test/Normal/00789.png	/mnt/d/LOLv2/Real_captured/Test/Low/00789.png	attach, bicycle, building, pillar, curb, moped, motorbike, motorcycle, park, pavement, scooter

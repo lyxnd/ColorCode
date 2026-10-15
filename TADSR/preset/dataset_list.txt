@@ -1,0 +1,689 @@
+/mnt/d/LOLv2/Real_captured/Train/Normal/00001.png	/mnt/d/LOLv2/Real_captured/Train/Low/00001.png	book, bookcase, bookshelf, cabinet, closet, plate, fill, glass door, home appliance, magnet, room, shelf
+/mnt/d/LOLv2/Real_captured/Train/Normal/00002.png	/mnt/d/LOLv2/Real_captured/Train/Low/00002.png	appliance, book, bookcase, bookshelf, bureau, cabinet, closet, plate, drawer, fill, fridge, glass door, magnet, room, shelf
+/mnt/d/LOLv2/Real_captured/Train/Normal/00003.png	/mnt/d/LOLv2/Real_captured/Train/Low/00003.png	appliance, book, bookcase, bookshelf, cabinet, closet, plate, drawer, fill, fridge, glass door, home appliance, magnet, room, shelf, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00004.png	/mnt/d/LOLv2/Real_captured/Train/Low/00004.png	appliance, book, bookcase, bookshelf, cabinet, closet, plate, fill, fridge, glass door, home appliance, magnet, room, shelf
+/mnt/d/LOLv2/Real_captured/Train/Normal/00005.png	/mnt/d/LOLv2/Real_captured/Train/Low/00005.png	bin, book, bookcase, bookshelf, cabinet, CD, closet, container, file, fill, glass door, library, office supply, shelf, shelve
+/mnt/d/LOLv2/Real_captured/Train/Normal/00006.png	/mnt/d/LOLv2/Real_captured/Train/Low/00006.png	bin, book, bookcase, bookshelf, cabinet, CD, closet, container, file, fill, glass door, office supply, shelf, shelve
+/mnt/d/LOLv2/Real_captured/Train/Normal/00007.png	/mnt/d/LOLv2/Real_captured/Train/Low/00007.png	bin, book, bookcase, bookshelf, cabinet, CD, closet, container, file, fill, glass door, library, office supply, shelf, shelve
+/mnt/d/LOLv2/Real_captured/Train/Normal/00008.png	/mnt/d/LOLv2/Real_captured/Train/Low/00008.png	book, bookcase, bookshelf, cabinet, CD, closet, container, file, fill, glass door, library, office supply, shelf, shelve
+/mnt/d/LOLv2/Real_captured/Train/Normal/00009.png	/mnt/d/LOLv2/Real_captured/Train/Low/00009.png	animal, bed, bedcover, doll, pillow, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00010.png	/mnt/d/LOLv2/Real_captured/Train/Low/00010.png	animal, bed, bedcover, doll, pillow, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00011.png	/mnt/d/LOLv2/Real_captured/Train/Low/00011.png	book, bookcase, bookshelf, closet, doll, fill, office supply, room, shelf, shelve, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00012.png	/mnt/d/LOLv2/Real_captured/Train/Low/00012.png	book, bookcase, bookshelf, closet, doll, fill, office supply, room, shelf, shelve, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00013.png	/mnt/d/LOLv2/Real_captured/Train/Low/00013.png	air conditioner, ceiling, curtain, equipment, pole, room, scooter, ski pole, stool, tripod, writing
+/mnt/d/LOLv2/Real_captured/Train/Normal/00014.png	/mnt/d/LOLv2/Real_captured/Train/Low/00014.png	air conditioner, ceiling, curtain, equipment, pole, room, scooter, ski pole, stool, tripod, writing
+/mnt/d/LOLv2/Real_captured/Train/Normal/00015.png	/mnt/d/LOLv2/Real_captured/Train/Low/00015.png	air conditioner, ceiling, curtain, equipment, pole, room, scooter, ski pole, stool, tripod, writing
+/mnt/d/LOLv2/Real_captured/Train/Normal/00016.png	/mnt/d/LOLv2/Real_captured/Train/Low/00016.png	air conditioner, ceiling, curtain, equipment, pole, room, ski pole, stool, tool, tripod, writing
+/mnt/d/LOLv2/Real_captured/Train/Normal/00017.png	/mnt/d/LOLv2/Real_captured/Train/Low/00017.png	bed, bedroom, blanket, lamp, bureau, computer, computer desk, couch, curtain, table, drawer, dresser, electronic, laptop, nightstand, office supply, pillow, room, stool, white, wood floor
+/mnt/d/LOLv2/Real_captured/Train/Normal/00018.png	/mnt/d/LOLv2/Real_captured/Train/Low/00018.png	bed, bedroom, blanket, lamp, bureau, computer, computer desk, curtain, table, drawer, dresser, electronic, laptop, nightstand, office supply, pillow, room, stool, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00019.png	/mnt/d/LOLv2/Real_captured/Train/Low/00019.png	bed, bedroom, blanket, lamp, bureau, computer, computer desk, curtain, table, drawer, dresser, electronic, laptop, nightstand, office supply, pillow, room, stool, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00020.png	/mnt/d/LOLv2/Real_captured/Train/Low/00020.png	bed, bedroom, blanket, lamp, bureau, computer, computer desk, curtain, table, drawer, dresser, electronic, laptop, nightstand, office supply, pillow, room, stool, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00021.png	/mnt/d/LOLv2/Real_captured/Train/Low/00021.png	animal, bed, bedroom, box, bureau, cardboard box, closet, clothe, clothing, doll, drawer, dresser, hide, pillow, room, shelf, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00022.png	/mnt/d/LOLv2/Real_captured/Train/Low/00022.png	animal, bed, bedroom, box, bureau, cardboard box, closet, clothe, clothing, doll, drawer, dresser, hide, pillow, room, shelf, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00023.png	/mnt/d/LOLv2/Real_captured/Train/Low/00023.png	animal, bed, bedroom, box, bureau, cardboard box, closet, clothe, clothing, doll, drawer, dresser, hide, pillow, room, shelf, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00024.png	/mnt/d/LOLv2/Real_captured/Train/Low/00024.png	animal, bed, bedroom, box, bureau, cardboard box, closet, clothe, clothing, doll, drawer, dresser, hide, pillow, room, shelf, stuff, toy, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00025.png	/mnt/d/LOLv2/Real_captured/Train/Low/00025.png	animal, bed, bedcover, bedroom, bin, blanket, comfort, curtain, donkey, headboard, linen, pillow, room, stuff
+/mnt/d/LOLv2/Real_captured/Train/Normal/00026.png	/mnt/d/LOLv2/Real_captured/Train/Low/00026.png	animal, bed, bedcover, bedroom, bin, blanket, comfort, curtain, donkey, headboard, linen, make, pillow, room, stuff
+/mnt/d/LOLv2/Real_captured/Train/Normal/00027.png	/mnt/d/LOLv2/Real_captured/Train/Low/00027.png	animal, bed, bedcover, bedroom, bin, blanket, comfort, curtain, donkey, headboard, linen, pillow, room, stuff
+/mnt/d/LOLv2/Real_captured/Train/Normal/00028.png	/mnt/d/LOLv2/Real_captured/Train/Low/00028.png	animal, bed, bedcover, bedroom, bin, blanket, comfort, curtain, donkey, headboard, linen, pillow, room, stuff, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00029.png	/mnt/d/LOLv2/Real_captured/Train/Low/00029.png	appliance, bin, bureau, cabinet, container, draw, drawer, drawing, dresser, floor, fridge, hardwood floor, home appliance, kitchen floor, magnet, stack, stool, toy, white, wood floor
+/mnt/d/LOLv2/Real_captured/Train/Normal/00030.png	/mnt/d/LOLv2/Real_captured/Train/Low/00030.png	appliance, bin, bureau, cabinet, container, draw, drawer, drawing, dresser, floor, fridge, hardwood floor, home appliance, kitchen floor, magnet, stack, stool, toy, white, wood floor
+/mnt/d/LOLv2/Real_captured/Train/Normal/00031.png	/mnt/d/LOLv2/Real_captured/Train/Low/00031.png	appliance, bin, bureau, cabinet, container, draw, drawer, drawing, dresser, floor, fridge, hardwood floor, home appliance, kitchen floor, magnet, stack, stool, toy, white, wood floor
+/mnt/d/LOLv2/Real_captured/Train/Normal/00032.png	/mnt/d/LOLv2/Real_captured/Train/Low/00032.png	appliance, bin, bureau, cabinet, container, draw, drawer, drawing, dresser, floor, fridge, hardwood floor, home appliance, kitchen floor, magnet, stack, stool, toy, white, wood floor
+/mnt/d/LOLv2/Real_captured/Train/Normal/00033.png	/mnt/d/LOLv2/Real_captured/Train/Low/00033.png	bottle, cake, table, drawer, side table, floor, glass table, living room, milk, pastry, platter, room, stool, tea pot, tray
+/mnt/d/LOLv2/Real_captured/Train/Normal/00034.png	/mnt/d/LOLv2/Real_captured/Train/Low/00034.png	bottle, cake, table, drawer, side table, floor, glass table, living room, milk, platter, room, stool, tea pot, tray
+/mnt/d/LOLv2/Real_captured/Train/Normal/00035.png	/mnt/d/LOLv2/Real_captured/Train/Low/00035.png	bureau, cabinet, drawer, dresser, entertainment center, flat, living room, remote, television, vase
+/mnt/d/LOLv2/Real_captured/Train/Normal/00036.png	/mnt/d/LOLv2/Real_captured/Train/Low/00036.png	cabinet, drawer, dresser, entertainment center, flat, living room, remote, television, vase
+/mnt/d/LOLv2/Real_captured/Train/Normal/00037.png	/mnt/d/LOLv2/Real_captured/Train/Low/00037.png	bureau, cabinet, drawer, dresser, entertainment center, flat, living room, remote, room, television, vase
+/mnt/d/LOLv2/Real_captured/Train/Normal/00038.png	/mnt/d/LOLv2/Real_captured/Train/Low/00038.png	bureau, cabinet, drawer, dresser, entertainment center, flat, living room, remote, room, television, vase
+/mnt/d/LOLv2/Real_captured/Train/Normal/00039.png	/mnt/d/LOLv2/Real_captured/Train/Low/00039.png	cabinet, curtain, dresser, fireplace, flower, greenery, mantle, plant, room, shelf, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00040.png	/mnt/d/LOLv2/Real_captured/Train/Low/00040.png	cabinet, curtain, dresser, fireplace, flower, greenery, mantle, plant, room, scissors, shelf, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00041.png	/mnt/d/LOLv2/Real_captured/Train/Low/00041.png	cabinet, curtain, dresser, fireplace, flower, greenery, mantle, plant, room, shelf, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00042.png	/mnt/d/LOLv2/Real_captured/Train/Low/00042.png	cabinet, curtain, dresser, fireplace, flower, greenery, mantle, plant, room, shelf, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00043.png	/mnt/d/LOLv2/Real_captured/Train/Low/00043.png	bottle, box, cabinet, case, pottery, container, plate, display, fill, kitchenware, shelf, showcase, tea pot
+/mnt/d/LOLv2/Real_captured/Train/Normal/00044.png	/mnt/d/LOLv2/Real_captured/Train/Low/00044.png	bottle, box, cabinet, case, pottery, collection, container, plate, display, fill, kitchenware, shelf, showcase, tea pot, vase
+/mnt/d/LOLv2/Real_captured/Train/Normal/00045.png	/mnt/d/LOLv2/Real_captured/Train/Low/00045.png	bottle, box, cabinet, case, pottery, container, plate, display, fill, kitchenware, shelf, showcase, tea pot, vase
+/mnt/d/LOLv2/Real_captured/Train/Normal/00046.png	/mnt/d/LOLv2/Real_captured/Train/Low/00046.png	bottle, box, cabinet, case, pottery, container, plate, display, fill, kitchenware, shelf, showcase, tea pot, vase
+/mnt/d/LOLv2/Real_captured/Train/Normal/00047.png	/mnt/d/LOLv2/Real_captured/Train/Low/00047.png	bureau, container, drawer, dresser, electronic, fill, office supply, shoe, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00048.png	/mnt/d/LOLv2/Real_captured/Train/Low/00048.png	bureau, closet, container, drawer, dresser, fill, office supply, shoe, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00049.png	/mnt/d/LOLv2/Real_captured/Train/Low/00049.png	black, chair, pad, table, folding chair, houseplant, laptop, plant, pot, stool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00050.png	/mnt/d/LOLv2/Real_captured/Train/Low/00050.png	black, chair, table, folding chair, greenery, houseplant, plant, pot, stool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00051.png	/mnt/d/LOLv2/Real_captured/Train/Low/00051.png	black, chair, table, folding chair, greenery, houseplant, plant, pot, stool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00052.png	/mnt/d/LOLv2/Real_captured/Train/Low/00052.png	black, chair, table, folding chair, greenery, houseplant, laptop, plant, pot, stool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00053.png	/mnt/d/LOLv2/Real_captured/Train/Low/00053.png	appliance, bin, box, bureau, cabinet, closet, container, cooler, drawer, hide, home appliance, office supply, peak, shelf, stack, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00054.png	/mnt/d/LOLv2/Real_captured/Train/Low/00054.png	appliance, bin, book, box, bureau, cabinet, closet, container, cooler, drawer, hide, home appliance, office supply, peak, shelf, stack, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00055.png	/mnt/d/LOLv2/Real_captured/Train/Low/00055.png	appliance, bin, box, bureau, cabinet, closet, container, cooler, drawer, hide, home appliance, office supply, peak, shelf, stack, toaster, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00056.png	/mnt/d/LOLv2/Real_captured/Train/Low/00056.png	appliance, bin, book, box, bureau, cabinet, closet, container, cooler, drawer, hide, home appliance, office supply, peak, shelf, stack, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00057.png	/mnt/d/LOLv2/Real_captured/Train/Low/00057.png	bag, couch, pad, duffel, lay, living room, pillow, strap
+/mnt/d/LOLv2/Real_captured/Train/Normal/00058.png	/mnt/d/LOLv2/Real_captured/Train/Low/00058.png	bag, couch, pad, duffel, lay, living room, pillow, strap
+/mnt/d/LOLv2/Real_captured/Train/Normal/00059.png	/mnt/d/LOLv2/Real_captured/Train/Low/00059.png	blue, table, fill, flower, greenery, plant, room, shelf, sit, stool, vase, white, writing
+/mnt/d/LOLv2/Real_captured/Train/Normal/00060.png	/mnt/d/LOLv2/Real_captured/Train/Low/00060.png	blue, table, fill, flower, greenery, plant, room, shelf, sit, vase, white, writing
+/mnt/d/LOLv2/Real_captured/Train/Normal/00061.png	/mnt/d/LOLv2/Real_captured/Train/Low/00061.png	blue, table, fill, flower, footstall, greenery, plant, room, shelf, sit, stool, vase, white, writing
+/mnt/d/LOLv2/Real_captured/Train/Normal/00062.png	/mnt/d/LOLv2/Real_captured/Train/Low/00062.png	blue, table, fill, flower, greenery, plant, room, shelf, sit, vase, white, writing
+/mnt/d/LOLv2/Real_captured/Train/Normal/00063.png	/mnt/d/LOLv2/Real_captured/Train/Low/00063.png	chair, table, dining room, dinning table, floor, kitchen table, napkin
+/mnt/d/LOLv2/Real_captured/Train/Normal/00064.png	/mnt/d/LOLv2/Real_captured/Train/Low/00064.png	chair, table, dining room, dinning table, floor, kitchen table, napkin
+/mnt/d/LOLv2/Real_captured/Train/Normal/00065.png	/mnt/d/LOLv2/Real_captured/Train/Low/00065.png	chair, table, dining room, dinning table, floor, kitchen table, napkin
+/mnt/d/LOLv2/Real_captured/Train/Normal/00066.png	/mnt/d/LOLv2/Real_captured/Train/Low/00066.png	chair, table, dining room, dinning table, floor, kitchen table, napkin
+/mnt/d/LOLv2/Real_captured/Train/Normal/00067.png	/mnt/d/LOLv2/Real_captured/Train/Low/00067.png	attach, computer, computer desk, computer monitor, table, drawer, electronic, equipment, hook, mouse, office supply, phone, remote, shelf, sit, speaker
+/mnt/d/LOLv2/Real_captured/Train/Normal/00068.png	/mnt/d/LOLv2/Real_captured/Train/Low/00068.png	attach, computer, computer desk, computer monitor, table, drawer, electronic, equipment, hook, mouse, office supply, phone, remote, shelf, sit, speaker
+/mnt/d/LOLv2/Real_captured/Train/Normal/00069.png	/mnt/d/LOLv2/Real_captured/Train/Low/00069.png	bin, blanket, bureau, cabinet, chiffonier, closet, cloth, drawer, dresser, lid, quilt, stool, tablecloth, toilet bowl, toilet seat
+/mnt/d/LOLv2/Real_captured/Train/Normal/00070.png	/mnt/d/LOLv2/Real_captured/Train/Low/00070.png	bin, blanket, bureau, cabinet, chiffonier, closet, cloth, drawer, dresser, lid, quilt, stool, tablecloth, toilet bowl, toilet seat
+/mnt/d/LOLv2/Real_captured/Train/Normal/00071.png	/mnt/d/LOLv2/Real_captured/Train/Low/00071.png	bin, blanket, bureau, cabinet, chiffonier, closet, cloth, drawer, dresser, lid, quilt, stool, tablecloth, toilet bowl, toilet seat
+/mnt/d/LOLv2/Real_captured/Train/Normal/00072.png	/mnt/d/LOLv2/Real_captured/Train/Low/00072.png	bin, blanket, bureau, cabinet, chiffonier, closet, cloth, drawer, dresser, lid, quilt, stool, tablecloth, toilet bowl, toilet seat
+/mnt/d/LOLv2/Real_captured/Train/Normal/00073.png	/mnt/d/LOLv2/Real_captured/Train/Low/00073.png	bin, blanket, bureau, cabinet, chiffonier, closet, cloth, drawer, dresser, lid, quilt, stool, tablecloth, toilet bowl, toilet seat
+/mnt/d/LOLv2/Real_captured/Train/Normal/00074.png	/mnt/d/LOLv2/Real_captured/Train/Low/00074.png	bin, blanket, bureau, cabinet, chiffonier, closet, cloth, drawer, dresser, lid, quilt, stool, tablecloth, toilet bowl, toilet seat
+/mnt/d/LOLv2/Real_captured/Train/Normal/00075.png	/mnt/d/LOLv2/Real_captured/Train/Low/00075.png	bathroom accessory, bathroom sink, bottle, cabinet, cleaner, cleaning product, condiment, counter top, detergent, dish washer, dishsoap, drawer, faucet, kitchen, kitchen counter, kitchen sink, mustard, sink, soap, sponge, spray
+/mnt/d/LOLv2/Real_captured/Train/Normal/00076.png	/mnt/d/LOLv2/Real_captured/Train/Low/00076.png	bathroom sink, bottle, cabinet, cleaner, cleaning product, condiment, counter top, detergent, dish washer, dishsoap, drawer, faucet, kitchen, kitchen counter, kitchen sink, mustard, sink, soap, sponge, spray, window
+/mnt/d/LOLv2/Real_captured/Train/Normal/00077.png	/mnt/d/LOLv2/Real_captured/Train/Low/00077.png	appliance, counter top, food, home appliance, kitchen counter, kitchenware, microwave, open, oven, shelf, toaster
+/mnt/d/LOLv2/Real_captured/Train/Normal/00078.png	/mnt/d/LOLv2/Real_captured/Train/Low/00078.png	appliance, counter top, food, home appliance, kitchen counter, kitchenware, microwave, open, oven, shelf, toaster
+/mnt/d/LOLv2/Real_captured/Train/Normal/00079.png	/mnt/d/LOLv2/Real_captured/Train/Low/00079.png	cabinet, closet, container, plate, drawer, glass door, kitchen, kitchen cabinet, kitchenware, knob, lid, open, pan, pot, screen door, shelf, utensil, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00080.png	/mnt/d/LOLv2/Real_captured/Train/Low/00080.png	cabinet, closet, container, plate, drawer, glass door, kitchen, kitchen cabinet, kitchenware, knob, lid, open, pan, pot, screen door, shelf, utensil, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00081.png	/mnt/d/LOLv2/Real_captured/Train/Low/00081.png	cabinet, closet, container, plate, drawer, glass door, kitchen, kitchen cabinet, kitchenware, knob, lid, open, pan, pot, screen door, shelf, utensil, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00082.png	/mnt/d/LOLv2/Real_captured/Train/Low/00082.png	cabinet, closet, container, plate, drawer, glass door, kitchen, kitchen cabinet, kitchenware, knob, lid, open, pan, pot, screen door, shelf, utensil, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00083.png	/mnt/d/LOLv2/Real_captured/Train/Low/00083.png	appliance, attach, ceiling, connect, electronic, equipment, home appliance, meter, plug, thermostat, water heater
+/mnt/d/LOLv2/Real_captured/Train/Normal/00084.png	/mnt/d/LOLv2/Real_captured/Train/Low/00084.png	appliance, attach, ceiling, connect, electronic, equipment, home appliance, meter, electric outlet, thermostat, water heater
+/mnt/d/LOLv2/Real_captured/Train/Normal/00085.png	/mnt/d/LOLv2/Real_captured/Train/Low/00085.png	appliance, attach, ceiling, connect, electronic, equipment, home appliance, meter, electric outlet, plug, thermostat, water heater
+/mnt/d/LOLv2/Real_captured/Train/Normal/00086.png	/mnt/d/LOLv2/Real_captured/Train/Low/00086.png	appliance, attach, ceiling, connect, electronic, equipment, home appliance, meter, electric outlet, plug, thermostat, water heater
+/mnt/d/LOLv2/Real_captured/Train/Normal/00087.png	/mnt/d/LOLv2/Real_captured/Train/Low/00087.png	alcohol, bottle, can, jar, condiment, container, counter, counter top, food, glass jar, ingredient, kitchen counter, kitchen window, ledge, nut, pepper, salt, salt shaker, shelf, spice, spice rack, window sill
+/mnt/d/LOLv2/Real_captured/Train/Normal/00088.png	/mnt/d/LOLv2/Real_captured/Train/Low/00088.png	alcohol, bottle, can, jar, condiment, container, counter, counter top, food, glass jar, ingredient, kitchen counter, kitchen window, ledge, nut, pepper, salt, shelf, spice, spice rack, window sill
+/mnt/d/LOLv2/Real_captured/Train/Normal/00089.png	/mnt/d/LOLv2/Real_captured/Train/Low/00089.png	alcohol, bottle, can, jar, condiment, container, counter, counter top, food, glass jar, ingredient, kitchen counter, kitchen window, ledge, nut, pepper, salt, salt shaker, shelf, spice, spice rack, window, window sill
+/mnt/d/LOLv2/Real_captured/Train/Normal/00090.png	/mnt/d/LOLv2/Real_captured/Train/Low/00090.png	alcohol, bottle, jar, condiment, container, counter, counter top, food, glass jar, ingredient, kitchen counter, kitchen window, ledge, nut, pepper, salt, shelf, spice, spice rack, window sill
+/mnt/d/LOLv2/Real_captured/Train/Normal/00091.png	/mnt/d/LOLv2/Real_captured/Train/Low/00091.png	black, boiler, cabinet, cooker, counter top, drawer, exhaust hood, food, frying pan, gas stove, home appliance, kitchen, kitchen counter, kitchenware, oven, pan, pot, stove, tea pot, tile wall, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00092.png	/mnt/d/LOLv2/Real_captured/Train/Low/00092.png	boiler, cabinet, cooker, counter top, drawer, exhaust hood, food, frying pan, gas stove, home appliance, kitchen, kitchen counter, kitchenware, oven, pan, pot, stove, tea pot, tile wall, white, wok
+/mnt/d/LOLv2/Real_captured/Train/Normal/00093.png	/mnt/d/LOLv2/Real_captured/Train/Low/00093.png	black, boiler, cabinet, cooker, counter top, drawer, exhaust hood, food, frying pan, gas stove, home appliance, kitchen, kitchen counter, kitchenware, oven, pan, pot, stove, tea pot, tile wall, white, wok
+/mnt/d/LOLv2/Real_captured/Train/Normal/00094.png	/mnt/d/LOLv2/Real_captured/Train/Low/00094.png	black, boiler, cabinet, cooker, counter top, drawer, exhaust hood, food, frying pan, gas stove, home appliance, kitchen, kitchen counter, kitchenware, oven, pan, pot, stove, tea pot, tile wall, white, wok
+/mnt/d/LOLv2/Real_captured/Train/Normal/00095.png	/mnt/d/LOLv2/Real_captured/Train/Low/00095.png	bag, beverage, bin, bottle, chip, condiment, container, drawer, drink, fill, food, open, package, pantry, snack, soda
+/mnt/d/LOLv2/Real_captured/Train/Normal/00096.png	/mnt/d/LOLv2/Real_captured/Train/Low/00096.png	alcohol, bag, beverage, bin, bottle, chip, condiment, container, drawer, drink, fill, food, open, package, pantry, snack, soda
+/mnt/d/LOLv2/Real_captured/Train/Normal/00097.png	/mnt/d/LOLv2/Real_captured/Train/Low/00097.png	bowl, plate, dish washer, fill, kitchenware, peak, saucer, shelf, silverware, spoon, stack, tableware, utensil
+/mnt/d/LOLv2/Real_captured/Train/Normal/00098.png	/mnt/d/LOLv2/Real_captured/Train/Low/00098.png	bowl, plate, dish washer, fill, kitchenware, peak, saucer, shelf, silverware, spoon, stack, tableware, utensil
+/mnt/d/LOLv2/Real_captured/Train/Normal/00099.png	/mnt/d/LOLv2/Real_captured/Train/Low/00099.png	container, cup, plate, dish washer, glass bowl, glass plate, home appliance, kitchenware, load, open, oven, shelf, stack, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00100.png	/mnt/d/LOLv2/Real_captured/Train/Low/00100.png	bowl, container, cup, plate, dish washer, glass bowl, glass plate, home appliance, kitchenware, load, open, oven, shelf, stack, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00101.png	/mnt/d/LOLv2/Real_captured/Train/Low/00101.png	appliance, cabinet, chair, table, dining room, dinning table, dish washer, doorway, floor, glass door, home appliance, kitchen, kitchen counter, kitchen sink, kitchen table, lead to, open, room, screen door, sink, slide, stool, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00102.png	/mnt/d/LOLv2/Real_captured/Train/Low/00102.png	appliance, cabinet, chair, dinning table, dish washer, doorway, floor, glass door, home appliance, kitchen, kitchen counter, kitchen sink, kitchen table, lead to, open, room, screen door, sink, slide, stool, white, window
+/mnt/d/LOLv2/Real_captured/Train/Normal/00103.png	/mnt/d/LOLv2/Real_captured/Train/Low/00103.png	appliance, cabinet, chair, table, dining room, dinning table, dish washer, doorway, floor, glass door, home appliance, kitchen, kitchen counter, kitchen sink, kitchen table, lead to, open, room, screen door, sink, slide, stool, white, window
+/mnt/d/LOLv2/Real_captured/Train/Normal/00104.png	/mnt/d/LOLv2/Real_captured/Train/Low/00104.png	appliance, cabinet, chair, table, dining room, dinning table, dish washer, doorway, floor, glass door, home appliance, kitchen, kitchen counter, kitchen sink, kitchen table, lead to, room, screen door, sink, slide, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00105.png	/mnt/d/LOLv2/Real_captured/Train/Low/00105.png	bathroom sink, bottle, bowl, cleaner, cleaning product, colander, container, detergent, plate, drain, kitchen sink, pipe, sink, soap, stack, strainer, tool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00106.png	/mnt/d/LOLv2/Real_captured/Train/Low/00106.png	bathroom sink, bottle, bowl, cleaner, cleaning product, colander, container, detergent, plate, drain, kitchen sink, pipe, sink, soap, stack, strainer, tool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00107.png	/mnt/d/LOLv2/Real_captured/Train/Low/00107.png	bathroom sink, bottle, bowl, cleaner, cleaning product, colander, container, detergent, plate, drain, kitchen sink, pipe, sink, soap, stack, strainer, tool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00108.png	/mnt/d/LOLv2/Real_captured/Train/Low/00108.png	bathroom sink, bottle, bowl, cleaner, cleaning product, colander, container, detergent, plate, drain, kitchen sink, pipe, sink, soap, stack, strainer, tool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00109.png	/mnt/d/LOLv2/Real_captured/Train/Low/00109.png	bottle, cabinet, jar, closet, container, drawer, floor, hide
+/mnt/d/LOLv2/Real_captured/Train/Normal/00110.png	/mnt/d/LOLv2/Real_captured/Train/Low/00110.png	bottle, cabinet, closet, container, drawer, floor, food, hide
+/mnt/d/LOLv2/Real_captured/Train/Normal/00111.png	/mnt/d/LOLv2/Real_captured/Train/Low/00111.png	bin, can, cigar, cigarette, plier, scissors, strainer, tool, window sill
+/mnt/d/LOLv2/Real_captured/Train/Normal/00112.png	/mnt/d/LOLv2/Real_captured/Train/Low/00112.png	bin, can, cigar, ledge, plier, scissors, tool, window, window sill
+/mnt/d/LOLv2/Real_captured/Train/Normal/00113.png	/mnt/d/LOLv2/Real_captured/Train/Low/00113.png	bin, can, plier, scissors, strainer, tool, window sill
+/mnt/d/LOLv2/Real_captured/Train/Normal/00114.png	/mnt/d/LOLv2/Real_captured/Train/Low/00114.png	bin, can, plier, scissors, strainer, tool, window sill
+/mnt/d/LOLv2/Real_captured/Train/Normal/00115.png	/mnt/d/LOLv2/Real_captured/Train/Low/00115.png	table, electronic, phone, remote, sit
+/mnt/d/LOLv2/Real_captured/Train/Normal/00116.png	/mnt/d/LOLv2/Real_captured/Train/Low/00116.png	control, table, electronic, phone, remote, sit
+/mnt/d/LOLv2/Real_captured/Train/Normal/00117.png	/mnt/d/LOLv2/Real_captured/Train/Low/00117.png	bottle, can, jar, condiment, container, fill, food, fridge, glass jar, home appliance, kitchenware, mixing bowl, mustard, open, pantry, pepper, pickle, shelf, spice
+/mnt/d/LOLv2/Real_captured/Train/Normal/00118.png	/mnt/d/LOLv2/Real_captured/Train/Low/00118.png	bottle, can, jar, condiment, container, fill, food, fridge, glass jar, home appliance, kitchenware, mixing bowl, mustard, open, pantry, pepper, pickle, pot, shelf, spice
+/mnt/d/LOLv2/Real_captured/Train/Normal/00119.png	/mnt/d/LOLv2/Real_captured/Train/Low/00119.png	bottle, can, jar, condiment, container, fill, food, fridge, glass jar, home appliance, kitchen counter, kitchenware, mixing bowl, mustard, open, pantry, pepper, pot, shelf, spice
+/mnt/d/LOLv2/Real_captured/Train/Normal/00120.png	/mnt/d/LOLv2/Real_captured/Train/Low/00120.png	bottle, can, jar, condiment, container, fill, food, fridge, glass jar, home appliance, kitchen counter, kitchenware, mixing bowl, mustard, open, pantry, pepper, pickle, shelf, spice
+/mnt/d/LOLv2/Real_captured/Train/Normal/00121.png	/mnt/d/LOLv2/Real_captured/Train/Low/00121.png	alcohol, beverage, bottle, can, condiment, container, cooler, drink, fill, food, fridge, home appliance, juice, liquid, open, shelf, soda
+/mnt/d/LOLv2/Real_captured/Train/Normal/00122.png	/mnt/d/LOLv2/Real_captured/Train/Low/00122.png	alcohol, beverage, bottle, can, condiment, container, cooler, drink, fill, food, fridge, home appliance, juice, liquid, open, shelf, soda
+/mnt/d/LOLv2/Real_captured/Train/Normal/00123.png	/mnt/d/LOLv2/Real_captured/Train/Low/00123.png	alcohol, beverage, bottle, can, condiment, container, cooler, drink, fill, food, fridge, home appliance, juice, liquid, open, shelf, soda
+/mnt/d/LOLv2/Real_captured/Train/Normal/00124.png	/mnt/d/LOLv2/Real_captured/Train/Low/00124.png	alcohol, beverage, bottle, can, condiment, container, cooler, drink, fill, food, fridge, home appliance, juice, liquid, open, shelf, soda
+/mnt/d/LOLv2/Real_captured/Train/Normal/00125.png	/mnt/d/LOLv2/Real_captured/Train/Low/00125.png	bag, bin, chip, container, drawer, fill, food, fridge, home appliance, open, package, pastry, plastic
+/mnt/d/LOLv2/Real_captured/Train/Normal/00126.png	/mnt/d/LOLv2/Real_captured/Train/Low/00126.png	bag, chip, container, fill, food, fridge, home appliance, open, package, pastry, plastic
+/mnt/d/LOLv2/Real_captured/Train/Normal/00127.png	/mnt/d/LOLv2/Real_captured/Train/Low/00127.png	bag, bin, box, bread, bundle, container, dough, fill, floor, food, lid, package, plastic, shape, wrap
+/mnt/d/LOLv2/Real_captured/Train/Normal/00128.png	/mnt/d/LOLv2/Real_captured/Train/Low/00128.png	bag, bin, box, bundle, container, fill, floor, food, lid, package, plastic, shape, wrap
+/mnt/d/LOLv2/Real_captured/Train/Normal/00129.png	/mnt/d/LOLv2/Real_captured/Train/Low/00129.png	bag, bin, box, bundle, cheese, container, fill, floor, food, lid, package, plastic, wrap
+/mnt/d/LOLv2/Real_captured/Train/Normal/00130.png	/mnt/d/LOLv2/Real_captured/Train/Low/00130.png	bag, bin, box, bundle, container, fill, floor, food, lid, package, plastic, wrap
+/mnt/d/LOLv2/Real_captured/Train/Normal/00131.png	/mnt/d/LOLv2/Real_captured/Train/Low/00131.png	carve, couple, pad, table, side table, floor, footstall, nightstand, peak, pillow, stool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00132.png	/mnt/d/LOLv2/Real_captured/Train/Low/00132.png	bag, couple, table, side table, floor, footstall, nightstand, peak, pillow, stool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00133.png	/mnt/d/LOLv2/Real_captured/Train/Low/00133.png	carve, couple, pad, table, side table, floor, footstall, nightstand, peak, pillow, stool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00134.png	/mnt/d/LOLv2/Real_captured/Train/Low/00134.png	carve, couple, pad, table, side table, floor, footstall, lid, nightstand, peak, pillow, stool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00135.png	/mnt/d/LOLv2/Real_captured/Train/Low/00135.png	carve, couple, pad, table, side table, floor, footstall, nightstand, peak, pillow, stool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00136.png	/mnt/d/LOLv2/Real_captured/Train/Low/00136.png	carve, couple, pad, table, side table, floor, footstall, nightstand, peak, pillow, stool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00137.png	/mnt/d/LOLv2/Real_captured/Train/Low/00137.png	toilet paper, box, case, container, table, dinning table, luggage, miniature, napkin, paper towel, peak, tissue
+/mnt/d/LOLv2/Real_captured/Train/Normal/00138.png	/mnt/d/LOLv2/Real_captured/Train/Low/00138.png	toilet paper, box, container, table, dinning table, luggage, miniature, napkin, package, paper towel, peak, tissue
+/mnt/d/LOLv2/Real_captured/Train/Normal/00139.png	/mnt/d/LOLv2/Real_captured/Train/Low/00139.png	armchair, candy cane, chair, christmas ornament, decorate, table, dinning table, hang, kitchen table, red, ribbon, room, string
+/mnt/d/LOLv2/Real_captured/Train/Normal/00140.png	/mnt/d/LOLv2/Real_captured/Train/Low/00140.png	armchair, candy cane, chair, table, dinning table, hang, kitchen table, ribbon, room, string
+/mnt/d/LOLv2/Real_captured/Train/Normal/00141.png	/mnt/d/LOLv2/Real_captured/Train/Low/00141.png	beam, blue, ceiling, light, room, skylight, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00142.png	/mnt/d/LOLv2/Real_captured/Train/Low/00142.png	beam, blue, ceiling, light, room, sky, skylight, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00143.png	/mnt/d/LOLv2/Real_captured/Train/Low/00143.png	closet, clothe, clothing, clothesline, coatrack, hang, hanger, hook, room, shelf, stool, tool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00144.png	/mnt/d/LOLv2/Real_captured/Train/Low/00144.png	closet, clothe, clothing, clothesline, coatrack, hang, hanger, hook, room, shelf, stool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00145.png	/mnt/d/LOLv2/Real_captured/Train/Low/00145.png	closet, clothe, clothing, clothesline, coatrack, hang, hanger, hook, room, shelf, stool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00146.png	/mnt/d/LOLv2/Real_captured/Train/Low/00146.png	closet, clothe, clothing, clothesline, coatrack, hang, hanger, hook, room, shelf, stool, tool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00147.png	/mnt/d/LOLv2/Real_captured/Train/Low/00147.png	backpack, bag, bureau, closet, clothe, diaper bag, drawer, dresser, fill, luggage, shelf, tie, tool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00148.png	/mnt/d/LOLv2/Real_captured/Train/Low/00148.png	backpack, bag, bureau, closet, clothe, diaper bag, drawer, dresser, fill, floor, locker, luggage, shelf, tool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00149.png	/mnt/d/LOLv2/Real_captured/Train/Low/00149.png	backpack, bag, bureau, closet, clothe, clothing, drawer, dresser, fill, floor, luggage, shelf, tool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00150.png	/mnt/d/LOLv2/Real_captured/Train/Low/00150.png	backpack, bag, bureau, closet, clothe, clothing, diaper bag, drawer, dresser, fill, luggage, shelf, tie, tool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00151.png	/mnt/d/LOLv2/Real_captured/Train/Low/00151.png	bureau, cabinet, closet, clothe, clothing, drawer, hang, hanger, open, room, shelf, tie, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00152.png	/mnt/d/LOLv2/Real_captured/Train/Low/00152.png	bureau, cabinet, closet, clothe, clothing, drawer, hang, hanger, room, wall lamp, shelf, tie
+/mnt/d/LOLv2/Real_captured/Train/Normal/00153.png	/mnt/d/LOLv2/Real_captured/Train/Low/00153.png	coffee cup, collection, cup, fill, kitchenware, mug, pitcher, shelf, shelve, shot glass
+/mnt/d/LOLv2/Real_captured/Train/Normal/00154.png	/mnt/d/LOLv2/Real_captured/Train/Low/00154.png	coffee cup, collection, cup, fill, kitchenware, mug, pitcher, shelf, shelve, shot glass
+/mnt/d/LOLv2/Real_captured/Train/Normal/00155.png	/mnt/d/LOLv2/Real_captured/Train/Low/00155.png	blue, coffee cup, container, cup, plate, drawer, kitchenware, mug, platter, salt shaker, saucer, shelf, shot glass, tray
+/mnt/d/LOLv2/Real_captured/Train/Normal/00156.png	/mnt/d/LOLv2/Real_captured/Train/Low/00156.png	blue, bottle, coffee cup, container, cup, plate, drawer, fill, kitchenware, mug, platter, salt shaker, saucer, shelf, shot glass, tray
+/mnt/d/LOLv2/Real_captured/Train/Normal/00157.png	/mnt/d/LOLv2/Real_captured/Train/Low/00157.png	bottle, bureau, cabinet, closet, drawer, file cabinet, wine, open, shelf, wine bottle, wine cabinet, wine rack
+/mnt/d/LOLv2/Real_captured/Train/Normal/00158.png	/mnt/d/LOLv2/Real_captured/Train/Low/00158.png	bottle, bureau, cabinet, closet, drawer, file cabinet, wine, open, package, shelf, wine bottle, wine cabinet, wine rack
+/mnt/d/LOLv2/Real_captured/Train/Normal/00159.png	/mnt/d/LOLv2/Real_captured/Train/Low/00159.png	can, jar, container, counter top, fill, food, glass bottle, glass jar, grater, kitchen counter, office supply, onion, pasta, pen, pencil, shelf, utensil
+/mnt/d/LOLv2/Real_captured/Train/Normal/00160.png	/mnt/d/LOLv2/Real_captured/Train/Low/00160.png	can, jar, container, counter top, fill, food, glass bottle, glass jar, grater, office supply, pasta, pen, pencil, shelf
+/mnt/d/LOLv2/Real_captured/Train/Normal/00161.png	/mnt/d/LOLv2/Real_captured/Train/Low/00161.png	bureau, cabinet, jar, closet, container, plate, drawer, dresser, glass jar, kitchenware, mouse, shelf, tray, utensil
+/mnt/d/LOLv2/Real_captured/Train/Normal/00162.png	/mnt/d/LOLv2/Real_captured/Train/Low/00162.png	bureau, cabinet, jar, closet, container, plate, drawer, dresser, glass jar, kitchenware, mouse, shelf, tray, utensil
+/mnt/d/LOLv2/Real_captured/Train/Normal/00163.png	/mnt/d/LOLv2/Real_captured/Train/Low/00163.png	book, bookcase, folder, bookshelf, CD, DVD, file, fill, library, record, shelf, shelve, stack
+/mnt/d/LOLv2/Real_captured/Train/Normal/00164.png	/mnt/d/LOLv2/Real_captured/Train/Low/00164.png	book, bookcase, folder, bookshelf, CD, DVD, file, fill, library, record, shelf, shelve, stack
+/mnt/d/LOLv2/Real_captured/Train/Normal/00165.png	/mnt/d/LOLv2/Real_captured/Train/Low/00165.png	bag, bin, book, bookcase, bookshelf, bureau, cabinet, closet, container, drawer, dresser, file, file cabinet, fill, luggage, shelf, storage box
+/mnt/d/LOLv2/Real_captured/Train/Normal/00166.png	/mnt/d/LOLv2/Real_captured/Train/Low/00166.png	bag, bin, book, bookcase, bookshelf, bureau, cabinet, closet, container, drawer, dresser, file, file cabinet, fill, hide, luggage, shelf, storage box
+/mnt/d/LOLv2/Real_captured/Train/Normal/00167.png	/mnt/d/LOLv2/Real_captured/Train/Low/00167.png	bag, bin, book, bookcase, bookshelf, bureau, cabinet, closet, container, drawer, dresser, file, file cabinet, fill, luggage, office supply, plastic, shelf, storage box
+/mnt/d/LOLv2/Real_captured/Train/Normal/00168.png	/mnt/d/LOLv2/Real_captured/Train/Low/00168.png	bookshelf, bureau, cabinet, closet, drawer, dresser, hut, room, shelf, toy, wrapping paper
+/mnt/d/LOLv2/Real_captured/Train/Normal/00169.png	/mnt/d/LOLv2/Real_captured/Train/Low/00169.png	bookshelf, bureau, cabinet, closet, drawer, dresser, glass door, hut, room, shelf, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00170.png	/mnt/d/LOLv2/Real_captured/Train/Low/00170.png	bookshelf, bureau, cabinet, closet, drawer, dresser, hut, room, shelf, toy, wrapping paper
+/mnt/d/LOLv2/Real_captured/Train/Normal/00171.png	/mnt/d/LOLv2/Real_captured/Train/Low/00171.png	attach, cable, computer, connect, rope, electronic, equipment, fan, hang, hook, plug, room, router, shelf, speaker, wire
+/mnt/d/LOLv2/Real_captured/Train/Normal/00172.png	/mnt/d/LOLv2/Real_captured/Train/Low/00172.png	attach, cable, computer, connect, rope, electronic, equipment, fan, hang, hook, plug, room, router, shelf, speaker, wire
+/mnt/d/LOLv2/Real_captured/Train/Normal/00173.png	/mnt/d/LOLv2/Real_captured/Train/Low/00173.png	attach, cable, ceiling, computer, connect, rope, electronic, equipment, fan, hang, hook, plug, room, router, shelf, wire
+/mnt/d/LOLv2/Real_captured/Train/Normal/00174.png	/mnt/d/LOLv2/Real_captured/Train/Low/00174.png	bed, bedcover, bedroom, bedding, blanket, lamp, bureau, comfort, drawer, dresser, headboard, linen, make, mattress, nightstand, pillow, room, wall lamp, sheet, stack, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00175.png	/mnt/d/LOLv2/Real_captured/Train/Low/00175.png	bed, bedcover, bedroom, bedding, blanket, lamp, bureau, comfort, drawer, dresser, headboard, linen, make, mattress, nightstand, pillow, room, wall lamp, sheet, stack, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00176.png	/mnt/d/LOLv2/Real_captured/Train/Low/00176.png	bed, bedcover, bedroom, bedding, blanket, lamp, bureau, comfort, drawer, dresser, headboard, linen, make, mattress, nightstand, pillow, room, wall lamp, sheet, stack, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00177.png	/mnt/d/LOLv2/Real_captured/Train/Low/00177.png	bead, wall, color, doll, earring, hang, hook, string, tassel, wood wall
+/mnt/d/LOLv2/Real_captured/Train/Normal/00178.png	/mnt/d/LOLv2/Real_captured/Train/Low/00178.png	bead, wall, color, earring, hang, hook, string, tassel, wood wall
+/mnt/d/LOLv2/Real_captured/Train/Normal/00179.png	/mnt/d/LOLv2/Real_captured/Train/Low/00179.png	bead, wall, color, earring, hang, hook, string, tassel, wood wall
+/mnt/d/LOLv2/Real_captured/Train/Normal/00180.png	/mnt/d/LOLv2/Real_captured/Train/Low/00180.png	bathroom, bathroom accessory, bathroom cabinet, bathroom sink, bottle, cabinet, cleaner, cleaning product, counter top, detergent, drawer, faucet, shampoo, sink, soap, soap dispenser, tile wall, toiletry, toothbrush, toothpaste, vanity, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00181.png	/mnt/d/LOLv2/Real_captured/Train/Low/00181.png	basin, bathroom, bathroom accessory, bathroom cabinet, bathroom sink, bottle, cabinet, cleaner, cleaning product, counter top, detergent, drawer, faucet, shampoo, sink, soap, soap dispenser, tile wall, toiletry, toothbrush, vanity, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00182.png	/mnt/d/LOLv2/Real_captured/Train/Low/00182.png	bathroom accessory, bathroom mirror, bathroom sink, bureau, cabinet, chair, drawer, dresser, mirror, office chair, oval, wall lamp, stool, swivel chair, vanity, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00183.png	/mnt/d/LOLv2/Real_captured/Train/Low/00183.png	bathroom mirror, bureau, cabinet, chair, closet, curtain, table, drawer, dresser, mirror, office chair, oval, stool, swivel chair, vanity, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00184.png	/mnt/d/LOLv2/Real_captured/Train/Low/00184.png	bathroom accessory, bathroom mirror, bathroom sink, bureau, cabinet, chair, curtain, drawer, dresser, mirror, office chair, oval, stool, swivel chair, vanity, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00185.png	/mnt/d/LOLv2/Real_captured/Train/Low/00185.png	bathroom mirror, bureau, cabinet, chair, closet, curtain, table, drawer, dresser, mirror, office chair, oval, room, stool, swivel chair, vanity, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00186.png	/mnt/d/LOLv2/Real_captured/Train/Low/00186.png	bathroom mirror, bureau, cabinet, chair, closet, curtain, table, drawer, dresser, mirror, office chair, oval, stool, swivel chair, vanity, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00187.png	/mnt/d/LOLv2/Real_captured/Train/Low/00187.png	bathroom mirror, bureau, cabinet, chair, closet, curtain, table, drawer, dresser, mirror, office chair, oval, room, stool, swivel chair, vanity, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00188.png	/mnt/d/LOLv2/Real_captured/Train/Low/00188.png	bed, bedcover, bedding, blanket, comfort, pad, headboard, linen, make, nightstand, pillow, pink, sheet, twin, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00189.png	/mnt/d/LOLv2/Real_captured/Train/Low/00189.png	bed, bedcover, bedding, blanket, comfort, pad, headboard, linen, make, nightstand, pillow, pink, sheet, twin, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00190.png	/mnt/d/LOLv2/Real_captured/Train/Low/00190.png	bureau, cabinet, closet, clothe, clothing, drawer, dressing room, fill, hide, open, room, shelf
+/mnt/d/LOLv2/Real_captured/Train/Normal/00191.png	/mnt/d/LOLv2/Real_captured/Train/Low/00191.png	bureau, cabinet, closet, clothe, clothing, drawer, dressing room, fill, hide, open, room, shelf
+/mnt/d/LOLv2/Real_captured/Train/Normal/00192.png	/mnt/d/LOLv2/Real_captured/Train/Low/00192.png	bureau, cabinet, closet, clothe, clothing, drawer, dressing room, fill, hide, open, room, shelf
+/mnt/d/LOLv2/Real_captured/Train/Normal/00193.png	/mnt/d/LOLv2/Real_captured/Train/Low/00193.png	bathroom, bathroom accessory, bin, ceiling fan, closet, fan, floor, hook, room, stool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00194.png	/mnt/d/LOLv2/Real_captured/Train/Low/00194.png	bathroom, bathroom accessory, bin, ceiling fan, fan, floor, room, stool, towel bar
+/mnt/d/LOLv2/Real_captured/Train/Normal/00195.png	/mnt/d/LOLv2/Real_captured/Train/Low/00195.png	bathroom, bathroom accessory, bin, ceiling fan, closet, fan, floor, floor fan, room, stool, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00196.png	/mnt/d/LOLv2/Real_captured/Train/Low/00196.png	box, ceiling, curtain, electronic, floor, plug, room, shower curtain, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00197.png	/mnt/d/LOLv2/Real_captured/Train/Low/00197.png	box, ceiling, curtain, electronic, floor, room, shower curtain, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00198.png	/mnt/d/LOLv2/Real_captured/Train/Low/00198.png	box, ceiling, curtain, electronic, floor, plug, room, shower curtain, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00199.png	/mnt/d/LOLv2/Real_captured/Train/Low/00199.png	chest, bureau, cabinet, closet, drawer, dress shoe, dresser, leather shoe, nightstand, peak, pink, shoe, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00200.png	/mnt/d/LOLv2/Real_captured/Train/Low/00200.png	chest, bureau, closet, drawer, dress shoe, dresser, leather shoe, nightstand, peak, shoe, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00201.png	/mnt/d/LOLv2/Real_captured/Train/Low/00201.png	chest, bureau, closet, drawer, dress shoe, dresser, leather shoe, nightstand, peak, shoe, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00202.png	/mnt/d/LOLv2/Real_captured/Train/Low/00202.png	clock, wall, lamp, decorate, table, hang, mantle, picture frame, plant, room, vase, wall clock
+/mnt/d/LOLv2/Real_captured/Train/Normal/00203.png	/mnt/d/LOLv2/Real_captured/Train/Low/00203.png	clock, lamp, decorate, table, hang, mantle, picture frame, plant, room, vase, wall clock
+/mnt/d/LOLv2/Real_captured/Train/Normal/00204.png	/mnt/d/LOLv2/Real_captured/Train/Low/00204.png	basketball, box, cardboard box, closet, doorway, floor, package, peak, sit, sports ball, stack
+/mnt/d/LOLv2/Real_captured/Train/Normal/00205.png	/mnt/d/LOLv2/Real_captured/Train/Low/00205.png	basketball, box, cardboard box, closet, doorway, floor, package, peak, sit, sports ball, stack
+/mnt/d/LOLv2/Real_captured/Train/Normal/00206.png	/mnt/d/LOLv2/Real_captured/Train/Low/00206.png	basketball, box, cardboard box, closet, doorway, floor, package, sit, sports ball, stack
+/mnt/d/LOLv2/Real_captured/Train/Normal/00207.png	/mnt/d/LOLv2/Real_captured/Train/Low/00207.png	bed, bedcover, bedding, blanket, lamp, comfort, curtain, pad, linen, pillow, pink, quilt, room, sheet, stack, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00208.png	/mnt/d/LOLv2/Real_captured/Train/Low/00208.png	bed, bedcover, bedding, blanket, lamp, comfort, curtain, pad, linen, pillow, pink, quilt, room, sheet, stack, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00209.png	/mnt/d/LOLv2/Real_captured/Train/Low/00209.png	bed, bedcover, bedding, blanket, lamp, comfort, curtain, pad, linen, pillow, pink, quilt, sheet, stack, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00210.png	/mnt/d/LOLv2/Real_captured/Train/Low/00210.png	bed, bedroom, bin, bureau, closet, container, cooler, drawer, dresser, mirror, nightstand, pillow, pink, room, storage box, vanity, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00211.png	/mnt/d/LOLv2/Real_captured/Train/Low/00211.png	bed, bedroom, bin, bureau, closet, container, cooler, drawer, dresser, mirror, nightstand, pillow, pink, room, storage box, vanity, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00212.png	/mnt/d/LOLv2/Real_captured/Train/Low/00212.png	bed, bedroom, bin, bureau, closet, container, cooler, drawer, dresser, mirror, nightstand, pillow, pink, room, storage box, vanity, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00213.png	/mnt/d/LOLv2/Real_captured/Train/Low/00213.png	bed, bedroom, bin, bureau, cabinet, chair, closet, table, drawer, dresser, side table, floor, hardwood floor, nightstand, pink, room, stool, vanity, white, wood floor
+/mnt/d/LOLv2/Real_captured/Train/Normal/00214.png	/mnt/d/LOLv2/Real_captured/Train/Low/00214.png	bed, bedroom, bin, bureau, cabinet, chair, closet, table, drawer, dresser, side table, floor, hardwood floor, nightstand, pink, room, stool, vanity, white, wood floor
+/mnt/d/LOLv2/Real_captured/Train/Normal/00215.png	/mnt/d/LOLv2/Real_captured/Train/Low/00215.png	bed, bedroom, bin, bureau, cabinet, chair, closet, table, drawer, dresser, side table, floor, hardwood floor, hassock, nightstand, pink, room, stool, vanity, white, wood floor
+/mnt/d/LOLv2/Real_captured/Train/Normal/00216.png	/mnt/d/LOLv2/Real_captured/Train/Low/00216.png	attach, wall, electronic, flat, hang, hook, mountain, plug, purple, radiator, television
+/mnt/d/LOLv2/Real_captured/Train/Normal/00217.png	/mnt/d/LOLv2/Real_captured/Train/Low/00217.png	attach, wall, ceiling, flat, hang, hook, mountain, plug, purple, radiator, wall lamp, television
+/mnt/d/LOLv2/Real_captured/Train/Normal/00218.png	/mnt/d/LOLv2/Real_captured/Train/Low/00218.png	attach, wall, lamp, electronic, flat, hang, hook, mountain, plug, wall lamp, television
+/mnt/d/LOLv2/Real_captured/Train/Normal/00219.png	/mnt/d/LOLv2/Real_captured/Train/Low/00219.png	bathroom, bathroom accessory, ceiling, fixture, shower, shower head, tile, tile wall
+/mnt/d/LOLv2/Real_captured/Train/Normal/00220.png	/mnt/d/LOLv2/Real_captured/Train/Low/00220.png	bathroom, bathroom accessory, ceiling, fixture, screen door, shower, shower head, tile, tile wall
+/mnt/d/LOLv2/Real_captured/Train/Normal/00221.png	/mnt/d/LOLv2/Real_captured/Train/Low/00221.png	bathroom, bathroom accessory, ceiling, fixture, shower, shower head, tile, tile wall
+/mnt/d/LOLv2/Real_captured/Train/Normal/00222.png	/mnt/d/LOLv2/Real_captured/Train/Low/00222.png	attach, balustrade, bathroom, bathroom accessory, roll, curtain, hand towel, hang, hook, shelf, shower, shower curtain, tile wall, towel, towel bar, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00223.png	/mnt/d/LOLv2/Real_captured/Train/Low/00223.png	attach, balustrade, bathroom, bathroom accessory, curtain, hand towel, hang, hook, shelf, shower, tile wall, towel, towel bar, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00224.png	/mnt/d/LOLv2/Real_captured/Train/Low/00224.png	attach, balustrade, bathroom, bathroom accessory, curtain, hand towel, hang, hook, shelf, shower, shower curtain, tile wall, towel, towel bar, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00225.png	/mnt/d/LOLv2/Real_captured/Train/Low/00225.png	attach, bathroom, bathroom accessory, toilet paper, bin, floor, lid, open, paper towel, seat, tank, tile, tile wall, toilet bowl, toilet seat, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00226.png	/mnt/d/LOLv2/Real_captured/Train/Low/00226.png	attach, bathroom, bathroom accessory, toilet paper, bin, floor, lid, open, paper towel, seat, tank, tile, tile wall, toilet bowl, toilet seat, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00227.png	/mnt/d/LOLv2/Real_captured/Train/Low/00227.png	rain, window, window sill
+/mnt/d/LOLv2/Real_captured/Train/Normal/00228.png	/mnt/d/LOLv2/Real_captured/Train/Low/00228.png	rain, rainy, window, window sill
+/mnt/d/LOLv2/Real_captured/Train/Normal/00229.png	/mnt/d/LOLv2/Real_captured/Train/Low/00229.png	rain, window, window sill
+/mnt/d/LOLv2/Real_captured/Train/Normal/00230.png	/mnt/d/LOLv2/Real_captured/Train/Low/00230.png	bag, bundle, ceiling, ceiling fan, doorway, fan, floor, hang, plant, plastic, tile wall
+/mnt/d/LOLv2/Real_captured/Train/Normal/00231.png	/mnt/d/LOLv2/Real_captured/Train/Low/00231.png	bag, bathroom, ceiling, ceiling fan, doorway, fan, floor, hang, plant, plastic, room, tile wall
+/mnt/d/LOLv2/Real_captured/Train/Normal/00232.png	/mnt/d/LOLv2/Real_captured/Train/Low/00232.png	bag, bundle, ceiling, ceiling fan, doorway, fan, floor, hang, plant, plastic, room, tile wall
+/mnt/d/LOLv2/Real_captured/Train/Normal/00233.png	/mnt/d/LOLv2/Real_captured/Train/Low/00233.png	bottle, bush, container, floor, grass, green, greenery, hide, lush, plant, toy, vegetation, weed
+/mnt/d/LOLv2/Real_captured/Train/Normal/00234.png	/mnt/d/LOLv2/Real_captured/Train/Low/00234.png	bush, container, figurine, floor, grass, green, greenery, hide, lush, plant, toy, vegetation, weed
+/mnt/d/LOLv2/Real_captured/Train/Normal/00235.png	/mnt/d/LOLv2/Real_captured/Train/Low/00235.png	container, floor, grass, green, greenery, hide, lush, plant, spray, vegetation, weed
+/mnt/d/LOLv2/Real_captured/Train/Normal/00236.png	/mnt/d/LOLv2/Real_captured/Train/Low/00236.png	ceiling, doorway, floor, lead to, hallway, room, wall lamp, sink, stool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00237.png	/mnt/d/LOLv2/Real_captured/Train/Low/00237.png	bathroom, ceiling, doorway, floor, lead to, hallway, room, wall lamp, sink, stool, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00238.png	/mnt/d/LOLv2/Real_captured/Train/Low/00238.png	ceiling, doorway, floor, fridge, lead to, hallway, room, wall lamp
+/mnt/d/LOLv2/Real_captured/Train/Normal/00239.png	/mnt/d/LOLv2/Real_captured/Train/Low/00239.png	cabinet, chair, closet, pillar, doorway, floor, living room, hallway, room, shoe, stool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00240.png	/mnt/d/LOLv2/Real_captured/Train/Low/00240.png	cabinet, chair, closet, pillar, doorway, floor, hallway, room, shoe, stool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00241.png	/mnt/d/LOLv2/Real_captured/Train/Low/00241.png	appliance, bureau, cabinet, doorway, drawer, dresser, floor, fridge, furniture, home appliance, living room, plant, room, stool, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00242.png	/mnt/d/LOLv2/Real_captured/Train/Low/00242.png	appliance, bureau, cabinet, doorway, drawer, dresser, floor, fridge, furniture, home appliance, living room, plant, room, stool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00243.png	/mnt/d/LOLv2/Real_captured/Train/Low/00243.png	appliance, bureau, cabinet, doorway, drawer, dresser, floor, fridge, furniture, home appliance, living room, plant, room, stool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00244.png	/mnt/d/LOLv2/Real_captured/Train/Low/00244.png	blanket, dalmatian, couch, pad, living room, pillow, room, vase, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00245.png	/mnt/d/LOLv2/Real_captured/Train/Low/00245.png	blanket, dalmatian, couch, pad, living room, pillow, room, vase, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00246.png	/mnt/d/LOLv2/Real_captured/Train/Low/00246.png	blanket, dalmatian, couch, pad, living room, pillow, room, vase, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00247.png	/mnt/d/LOLv2/Real_captured/Train/Low/00247.png	blanket, dalmatian, couch, pad, living room, pillow, room, vase, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00248.png	/mnt/d/LOLv2/Real_captured/Train/Low/00248.png	appliance, cabinet, closet, figurine, floor, fridge, home appliance, miniature, room, sculpture, shelf, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00249.png	/mnt/d/LOLv2/Real_captured/Train/Low/00249.png	appliance, cabinet, closet, doll, figurine, fridge, home appliance, miniature, room, sculpture, shelf, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00250.png	/mnt/d/LOLv2/Real_captured/Train/Low/00250.png	appliance, cabinet, closet, doll, figurine, fridge, home appliance, miniature, room, sculpture, shelf, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00251.png	/mnt/d/LOLv2/Real_captured/Train/Low/00251.png	beam, blind, ceiling, curtain, room, skylight, window
+/mnt/d/LOLv2/Real_captured/Train/Normal/00252.png	/mnt/d/LOLv2/Real_captured/Train/Low/00252.png	beam, blind, ceiling, ceiling fan, curtain, room, screen door, sink, skylight, window
+/mnt/d/LOLv2/Real_captured/Train/Normal/00253.png	/mnt/d/LOLv2/Real_captured/Train/Low/00253.png	blind, ceiling, room, skylight, window
+/mnt/d/LOLv2/Real_captured/Train/Normal/00254.png	/mnt/d/LOLv2/Real_captured/Train/Low/00254.png	building, city, city skyline, city view, cloudy, daylight, fog, foggy, sky, tree, urban
+/mnt/d/LOLv2/Real_captured/Train/Normal/00255.png	/mnt/d/LOLv2/Real_captured/Train/Low/00255.png	attach, bead, bug, lamp, ceiling, display, doll, hang, hook, string, toy, wind chime
+/mnt/d/LOLv2/Real_captured/Train/Normal/00256.png	/mnt/d/LOLv2/Real_captured/Train/Low/00256.png	attach, bead, bug, lamp, ceiling, display, doll, hang, hook, string, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00257.png	/mnt/d/LOLv2/Real_captured/Train/Low/00257.png	attach, bead, bug, lamp, ceiling, display, doll, hang, hook, string, toy, wind chime
+/mnt/d/LOLv2/Real_captured/Train/Normal/00258.png	/mnt/d/LOLv2/Real_captured/Train/Low/00258.png	attach, bead, bug, lamp, ceiling, display, doll, hang, hook, string, toy, wind chime
+/mnt/d/LOLv2/Real_captured/Train/Normal/00259.png	/mnt/d/LOLv2/Real_captured/Train/Low/00259.png	book, bookcase, bookshelf, shelf, shelve
+/mnt/d/LOLv2/Real_captured/Train/Normal/00260.png	/mnt/d/LOLv2/Real_captured/Train/Low/00260.png	book, bookcase, bookshelf, figurine, shelf, shelve
+/mnt/d/LOLv2/Real_captured/Train/Normal/00261.png	/mnt/d/LOLv2/Real_captured/Train/Low/00261.png	book, bookcase, bookshelf, shelf, shelve
+/mnt/d/LOLv2/Real_captured/Train/Normal/00262.png	/mnt/d/LOLv2/Real_captured/Train/Low/00262.png	book, bookcase, bookshelf, figurine, row, shelf, shelve
+/mnt/d/LOLv2/Real_captured/Train/Normal/00263.png	/mnt/d/LOLv2/Real_captured/Train/Low/00263.png	animal, bed, blanket, computer, computer screen, laptop, open, pillow, screen, sit
+/mnt/d/LOLv2/Real_captured/Train/Normal/00264.png	/mnt/d/LOLv2/Real_captured/Train/Low/00264.png	animal, bed, computer, computer screen, laptop, open, pillow, screen, sit
+/mnt/d/LOLv2/Real_captured/Train/Normal/00265.png	/mnt/d/LOLv2/Real_captured/Train/Low/00265.png	bag, book, bookcase, bookshelf, cabinet, closet, container, drawer, file, fill, material, package, paper, plastic, shelf, stack
+/mnt/d/LOLv2/Real_captured/Train/Normal/00266.png	/mnt/d/LOLv2/Real_captured/Train/Low/00266.png	bag, book, bookcase, bookshelf, bureau, cabinet, closet, container, drawer, file, fill, material, package, paper, plastic, shelf, stack
+/mnt/d/LOLv2/Real_captured/Train/Normal/00267.png	/mnt/d/LOLv2/Real_captured/Train/Low/00267.png	bag, book, bookcase, bookshelf, bureau, cabinet, closet, container, drawer, file, fill, package, paper, plastic, shelf, stack
+/mnt/d/LOLv2/Real_captured/Train/Normal/00268.png	/mnt/d/LOLv2/Real_captured/Train/Low/00268.png	animal, table, doll, line, pencil, snowman, stuff, toy, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00269.png	/mnt/d/LOLv2/Real_captured/Train/Low/00269.png	animal, table, doll, fruit, line, pencil, snowman, stuff, toy, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00270.png	/mnt/d/LOLv2/Real_captured/Train/Low/00270.png	animal, table, doll, line, pencil, snowman, stuff, toy, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00271.png	/mnt/d/LOLv2/Real_captured/Train/Low/00271.png	animal, table, doll, fruit, line, pencil, snowman, stuff, toy, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00272.png	/mnt/d/LOLv2/Real_captured/Train/Low/00272.png	animal, blue, table, doll, milk, snowman, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00273.png	/mnt/d/LOLv2/Real_captured/Train/Low/00273.png	animal, blue, monster, table, doll, milk, snowman, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00274.png	/mnt/d/LOLv2/Real_captured/Train/Low/00274.png	animal, blue, monster, table, doll, eye, milk, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00275.png	/mnt/d/LOLv2/Real_captured/Train/Low/00275.png	animal, blue, monster, table, doll, snowman, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00276.png	/mnt/d/LOLv2/Real_captured/Train/Low/00276.png	animal, brush, cosmetic, crayon, table, doll, mark, office supply, pen, pencil, stuff, toy, tray
+/mnt/d/LOLv2/Real_captured/Train/Normal/00277.png	/mnt/d/LOLv2/Real_captured/Train/Low/00277.png	animal, brush, cosmetic, crayon, table, doll, mark, office supply, pen, pencil, stuff, toy, tray
+/mnt/d/LOLv2/Real_captured/Train/Normal/00278.png	/mnt/d/LOLv2/Real_captured/Train/Low/00278.png	animal, box, brush, cosmetic, crayon, table, doll, mark, office supply, pen, pencil, snowman, stuff, toy, tray
+/mnt/d/LOLv2/Real_captured/Train/Normal/00279.png	/mnt/d/LOLv2/Real_captured/Train/Low/00279.png	animal, brush, cosmetic, crayon, table, doll, mark, office supply, pen, pencil, stuff, toy, tray
+/mnt/d/LOLv2/Real_captured/Train/Normal/00280.png	/mnt/d/LOLv2/Real_captured/Train/Low/00280.png	animal, brush, cosmetic, crayon, table, doll, mark, office supply, pen, pencil, pencil case, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00281.png	/mnt/d/LOLv2/Real_captured/Train/Low/00281.png	animal, brush, crayon, table, doll, ghost, mark, office supply, pen, pencil, pencil case, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00282.png	/mnt/d/LOLv2/Real_captured/Train/Low/00282.png	animal, brush, cosmetic, crayon, table, doll, mark, office supply, pen, pencil, pencil case, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00283.png	/mnt/d/LOLv2/Real_captured/Train/Low/00283.png	animal, brush, crayon, table, doll, ghost, mark, office supply, pen, pencil, pencil case, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00284.png	/mnt/d/LOLv2/Real_captured/Train/Low/00284.png	animal, color, ghost, palette, room, snowman, stand, stuff, teddy, toy, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00285.png	/mnt/d/LOLv2/Real_captured/Train/Low/00285.png	animal, color, palette, room, snowman, stand, stuff, teddy, toy, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00286.png	/mnt/d/LOLv2/Real_captured/Train/Low/00286.png	animal, color, ghost, palette, room, snowman, stand, stuff, teddy, toy, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00287.png	/mnt/d/LOLv2/Real_captured/Train/Low/00287.png	animal, color, palette, room, snowman, stand, stuff, teddy, toy, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00288.png	/mnt/d/LOLv2/Real_captured/Train/Low/00288.png	animal, box, can, carton, color, doll, milk, package, palette, room, sit, stuff, teddy, toothpaste, toy, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00289.png	/mnt/d/LOLv2/Real_captured/Train/Low/00289.png	animal, box, can, carton, color, doll, milk, package, palette, room, sit, stuff, teddy, toothpaste, toy, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00290.png	/mnt/d/LOLv2/Real_captured/Train/Low/00290.png	animal, box, can, carton, color, doll, milk, package, palette, room, sit, stuff, teddy, toothpaste, toy, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00291.png	/mnt/d/LOLv2/Real_captured/Train/Low/00291.png	animal, box, can, carton, color, doll, milk, package, palette, room, sit, stuff, teddy, toothpaste, toy, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00292.png	/mnt/d/LOLv2/Real_captured/Train/Low/00292.png	animal, table, doll, milk, shelf, sit, sew, stuff, toothpaste, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00293.png	/mnt/d/LOLv2/Real_captured/Train/Low/00293.png	animal, table, doll, milk, sit, sew, stuff, toothpaste, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00294.png	/mnt/d/LOLv2/Real_captured/Train/Low/00294.png	animal, table, doll, milk, sit, sew, stuff, toothpaste, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00295.png	/mnt/d/LOLv2/Real_captured/Train/Low/00295.png	animal, table, doll, milk, shelf, sit, sew, stuff, toothpaste, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00296.png	/mnt/d/LOLv2/Real_captured/Train/Low/00296.png	animal, table, plate, doll, figurine, food, fruit, platter, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00297.png	/mnt/d/LOLv2/Real_captured/Train/Low/00297.png	animal, table, plate, doll, figurine, food, fruit, platter, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00298.png	/mnt/d/LOLv2/Real_captured/Train/Low/00298.png	animal, table, plate, doll, figurine, food, fruit, platter, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00299.png	/mnt/d/LOLv2/Real_captured/Train/Low/00299.png	animal, table, plate, doll, figurine, food, fruit, platter, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00300.png	/mnt/d/LOLv2/Real_captured/Train/Low/00300.png	animal, table, plate, doll, figurine, food, fruit, puppet, platter, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00301.png	/mnt/d/LOLv2/Real_captured/Train/Low/00301.png	animal, table, plate, doll, figurine, food, fruit, puppet, platter, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00302.png	/mnt/d/LOLv2/Real_captured/Train/Low/00302.png	animal, table, plate, doll, figurine, food, fruit, puppet, platter, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00303.png	/mnt/d/LOLv2/Real_captured/Train/Low/00303.png	animal, table, plate, doll, figurine, food, fruit, puppet, platter, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00304.png	/mnt/d/LOLv2/Real_captured/Train/Low/00304.png	animal, cupcake, table, doll, figurine, food, fruit, puppet, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00305.png	/mnt/d/LOLv2/Real_captured/Train/Low/00305.png	animal, cupcake, table, doll, figurine, food, fruit, puppet, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00306.png	/mnt/d/LOLv2/Real_captured/Train/Low/00306.png	animal, cupcake, table, doll, figurine, food, fruit, puppet, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00307.png	/mnt/d/LOLv2/Real_captured/Train/Low/00307.png	animal, cupcake, table, doll, figurine, food, fruit, puppet, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00308.png	/mnt/d/LOLv2/Real_captured/Train/Low/00308.png	animal, table, doll, fruit, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00309.png	/mnt/d/LOLv2/Real_captured/Train/Low/00309.png	animal, table, doll, fruit, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00310.png	/mnt/d/LOLv2/Real_captured/Train/Low/00310.png	animal, table, doll, fruit, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00311.png	/mnt/d/LOLv2/Real_captured/Train/Low/00311.png	animal, table, doll, fruit, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00312.png	/mnt/d/LOLv2/Real_captured/Train/Low/00312.png	animal, computer desk, table, doll, fruit, office supply, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00313.png	/mnt/d/LOLv2/Real_captured/Train/Low/00313.png	animal, computer desk, table, doll, office supply, sit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00314.png	/mnt/d/LOLv2/Real_captured/Train/Low/00314.png	animal, computer desk, table, doll, fruit, office supply, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00315.png	/mnt/d/LOLv2/Real_captured/Train/Low/00315.png	animal, computer desk, table, doll, fruit, office supply, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00316.png	/mnt/d/LOLv2/Real_captured/Train/Low/00316.png	animal, table, doll, figurine, ghost, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00317.png	/mnt/d/LOLv2/Real_captured/Train/Low/00317.png	animal, book, table, doll, figurine, food, fruit, ghost, room, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00318.png	/mnt/d/LOLv2/Real_captured/Train/Low/00318.png	animal, table, doll, figurine, fruit, ghost, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00319.png	/mnt/d/LOLv2/Real_captured/Train/Low/00319.png	animal, book, table, doll, figurine, food, fruit, ghost, room, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00320.png	/mnt/d/LOLv2/Real_captured/Train/Low/00320.png	alarm clock, animal, book, cheese, cube, table, doll, figurine, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00321.png	/mnt/d/LOLv2/Real_captured/Train/Low/00321.png	alarm clock, animal, book, cheese, cube, table, doll, figurine, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00322.png	/mnt/d/LOLv2/Real_captured/Train/Low/00322.png	alarm clock, animal, book, cheese, cube, table, doll, figurine, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00323.png	/mnt/d/LOLv2/Real_captured/Train/Low/00323.png	alarm clock, animal, book, cheese, cube, table, doll, figurine, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00324.png	/mnt/d/LOLv2/Real_captured/Train/Low/00324.png	animal, cheese, doll, food, fruit, snowman, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00325.png	/mnt/d/LOLv2/Real_captured/Train/Low/00325.png	animal, cheese, table, doll, food, fruit, snowman, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00326.png	/mnt/d/LOLv2/Real_captured/Train/Low/00326.png	animal, cheese, table, doll, food, fruit, snowman, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00327.png	/mnt/d/LOLv2/Real_captured/Train/Low/00327.png	animal, cheese, doll, food, fruit, snowman, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00328.png	/mnt/d/LOLv2/Real_captured/Train/Low/00328.png	animal, cheese, doll, food, fruit, snowman, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00329.png	/mnt/d/LOLv2/Real_captured/Train/Low/00329.png	animal, cheese, table, doll, food, fruit, snowman, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00330.png	/mnt/d/LOLv2/Real_captured/Train/Low/00330.png	animal, cheese, doll, food, fruit, snowman, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00331.png	/mnt/d/LOLv2/Real_captured/Train/Low/00331.png	alarm clock, animal, bottle, table, doll, food, fruit, room, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00332.png	/mnt/d/LOLv2/Real_captured/Train/Low/00332.png	alarm clock, animal, bottle, cube, table, doll, food, fruit, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00333.png	/mnt/d/LOLv2/Real_captured/Train/Low/00333.png	alarm clock, animal, bottle, table, doll, food, fruit, room, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00334.png	/mnt/d/LOLv2/Real_captured/Train/Low/00334.png	alarm clock, animal, bottle, cube, table, doll, food, fruit, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00335.png	/mnt/d/LOLv2/Real_captured/Train/Low/00335.png	animal, book, cube, doll, figurine, food, fruit, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00336.png	/mnt/d/LOLv2/Real_captured/Train/Low/00336.png	animal, book, cheese, cube, doll, figurine, food, fruit, room, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00337.png	/mnt/d/LOLv2/Real_captured/Train/Low/00337.png	animal, book, cube, doll, figurine, food, fruit, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00338.png	/mnt/d/LOLv2/Real_captured/Train/Low/00338.png	animal, book, cube, doll, figurine, food, fruit, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00339.png	/mnt/d/LOLv2/Real_captured/Train/Low/00339.png	alarm clock, animal, backpack, bag, bottle, can, cube, doll, fruit, ghost, grape, sit, snowman, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00340.png	/mnt/d/LOLv2/Real_captured/Train/Low/00340.png	alarm clock, animal, backpack, bag, bottle, can, doll, fruit, ghost, sit, snowman, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00341.png	/mnt/d/LOLv2/Real_captured/Train/Low/00341.png	animal, backpack, bottle, can, cube, doll, fruit, ghost, room, sit, snowman, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00342.png	/mnt/d/LOLv2/Real_captured/Train/Low/00342.png	animal, backpack, bag, bottle, can, cube, doll, fruit, ghost, sit, snowman, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00343.png	/mnt/d/LOLv2/Real_captured/Train/Low/00343.png	animal, backpack, bottle, can, cube, doll, fruit, ghost, room, sit, snowman, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00344.png	/mnt/d/LOLv2/Real_captured/Train/Low/00344.png	animal, backpack, bottle, can, cube, doll, fruit, ghost, room, sit, snowman, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00345.png	/mnt/d/LOLv2/Real_captured/Train/Low/00345.png	alarm clock, animal, backpack, bag, bottle, can, doll, fruit, ghost, sit, snowman, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00346.png	/mnt/d/LOLv2/Real_captured/Train/Low/00346.png	animal, backpack, bottle, can, cube, doll, fruit, ghost, room, sit, snowman, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00347.png	/mnt/d/LOLv2/Real_captured/Train/Low/00347.png	animal, backpack, bottle, can, cube, doll, fruit, ghost, room, sit, snowman, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00348.png	/mnt/d/LOLv2/Real_captured/Train/Low/00348.png	alarm clock, animal, backpack, bag, bottle, can, cube, doll, fruit, ghost, sit, snowman, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00349.png	/mnt/d/LOLv2/Real_captured/Train/Low/00349.png	animal, table, doll, food, fruit, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00350.png	/mnt/d/LOLv2/Real_captured/Train/Low/00350.png	animal, bottle, table, doll, food, fruit, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00351.png	/mnt/d/LOLv2/Real_captured/Train/Low/00351.png	animal, table, doll, food, fruit, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00352.png	/mnt/d/LOLv2/Real_captured/Train/Low/00352.png	animal, bottle, table, doll, food, fruit, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00353.png	/mnt/d/LOLv2/Real_captured/Train/Low/00353.png	animal, cheese, table, doll, food, fruit, grape, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00354.png	/mnt/d/LOLv2/Real_captured/Train/Low/00354.png	animal, cheese, table, doll, food, fruit, grape, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00355.png	/mnt/d/LOLv2/Real_captured/Train/Low/00355.png	animal, cheese, table, doll, food, fruit, grape, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00356.png	/mnt/d/LOLv2/Real_captured/Train/Low/00356.png	animal, table, doll, food, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00357.png	/mnt/d/LOLv2/Real_captured/Train/Low/00357.png	animal, lamp, cube, doll, figurine, room, sit, stuff, teddy, toy, vase
+/mnt/d/LOLv2/Real_captured/Train/Normal/00358.png	/mnt/d/LOLv2/Real_captured/Train/Low/00358.png	animal, baseball hat, cube, table, doll, figurine, sit, snowman, stuff, teddy, toy, vase
+/mnt/d/LOLv2/Real_captured/Train/Normal/00359.png	/mnt/d/LOLv2/Real_captured/Train/Low/00359.png	animal, cube, table, doll, figurine, sit, snowman, stuff, teddy, toy, vase
+/mnt/d/LOLv2/Real_captured/Train/Normal/00360.png	/mnt/d/LOLv2/Real_captured/Train/Low/00360.png	animal, cube, table, doll, figurine, sit, snowman, stuff, teddy, toy, vase
+/mnt/d/LOLv2/Real_captured/Train/Normal/00361.png	/mnt/d/LOLv2/Real_captured/Train/Low/00361.png	animal, cube, table, doll, figurine, sit, snowman, stuff, teddy, toy, vase
+/mnt/d/LOLv2/Real_captured/Train/Normal/00362.png	/mnt/d/LOLv2/Real_captured/Train/Low/00362.png	animal, lamp, cube, doll, figurine, room, sit, stuff, teddy, toy, vase
+/mnt/d/LOLv2/Real_captured/Train/Normal/00363.png	/mnt/d/LOLv2/Real_captured/Train/Low/00363.png	animal, baseball hat, cube, table, doll, figurine, sit, snowman, stuff, teddy, toy, vase
+/mnt/d/LOLv2/Real_captured/Train/Normal/00364.png	/mnt/d/LOLv2/Real_captured/Train/Low/00364.png	animal, baseball hat, cube, table, doll, figurine, sit, snowman, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00365.png	/mnt/d/LOLv2/Real_captured/Train/Low/00365.png	animal, book, boot, bottle, cowboy boot, table, doll, figurine, grape, pillow, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00366.png	/mnt/d/LOLv2/Real_captured/Train/Low/00366.png	animal, book, boot, bottle, cowboy boot, table, doll, fruit, grape, pillow, shoe, sit, sock, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00367.png	/mnt/d/LOLv2/Real_captured/Train/Low/00367.png	animal, book, boot, bottle, lamp, cowboy boot, table, doll, fruit, grape, sit, sock, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00368.png	/mnt/d/LOLv2/Real_captured/Train/Low/00368.png	animal, book, boot, bottle, cowboy boot, table, doll, fruit, grape, pillow, shoe, sit, sock, stool, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00369.png	/mnt/d/LOLv2/Real_captured/Train/Low/00369.png	bag, boot, bottle, cowboy boot, table, fruit, grape, pillow, sit, strap, yoga mat
+/mnt/d/LOLv2/Real_captured/Train/Normal/00370.png	/mnt/d/LOLv2/Real_captured/Train/Low/00370.png	bag, bottle, table, fruit, pillow, sit, strap
+/mnt/d/LOLv2/Real_captured/Train/Normal/00371.png	/mnt/d/LOLv2/Real_captured/Train/Low/00371.png	bag, bottle, table, fruit, grape, pillow, sit, strap
+/mnt/d/LOLv2/Real_captured/Train/Normal/00372.png	/mnt/d/LOLv2/Real_captured/Train/Low/00372.png	animal, box, table, doll, figurine, food, fruit, owl, snack, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00373.png	/mnt/d/LOLv2/Real_captured/Train/Low/00373.png	animal, box, table, doll, figurine, food, fruit, owl, snack, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00374.png	/mnt/d/LOLv2/Real_captured/Train/Low/00374.png	animal, box, table, doll, figurine, food, fruit, owl, snack, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00375.png	/mnt/d/LOLv2/Real_captured/Train/Low/00375.png	animal, box, table, doll, figurine, food, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00376.png	/mnt/d/LOLv2/Real_captured/Train/Low/00376.png	animal, table, doll, fruit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00377.png	/mnt/d/LOLv2/Real_captured/Train/Low/00377.png	animal, table, doll, fruit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00378.png	/mnt/d/LOLv2/Real_captured/Train/Low/00378.png	animal, table, doll, fruit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00379.png	/mnt/d/LOLv2/Real_captured/Train/Low/00379.png	animal, table, doll, fruit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00380.png	/mnt/d/LOLv2/Real_captured/Train/Low/00380.png	alarm clock, animal, backpack, book, bottle, table, doll, fruit, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00381.png	/mnt/d/LOLv2/Real_captured/Train/Low/00381.png	alarm clock, animal, backpack, book, bottle, table, doll, fruit, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00382.png	/mnt/d/LOLv2/Real_captured/Train/Low/00382.png	alarm clock, animal, backpack, book, bottle, table, doll, fruit, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00383.png	/mnt/d/LOLv2/Real_captured/Train/Low/00383.png	alarm clock, animal, backpack, book, bottle, table, doll, fruit, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00384.png	/mnt/d/LOLv2/Real_captured/Train/Low/00384.png	animal, table, doll, figurine, fruit, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00385.png	/mnt/d/LOLv2/Real_captured/Train/Low/00385.png	animal, table, doll, figurine, fruit, shelf, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00386.png	/mnt/d/LOLv2/Real_captured/Train/Low/00386.png	animal, table, doll, fruit, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00387.png	/mnt/d/LOLv2/Real_captured/Train/Low/00387.png	animal, table, doll, figurine, fruit, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00388.png	/mnt/d/LOLv2/Real_captured/Train/Low/00388.png	animal, christmas tree, decorate, table, doll, fruit, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00389.png	/mnt/d/LOLv2/Real_captured/Train/Low/00389.png	animal, christmas tree, decorate, table, doll, fruit, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00390.png	/mnt/d/LOLv2/Real_captured/Train/Low/00390.png	animal, christmas tree, decorate, table, doll, fruit, sit, stuff, teddy, toy, tree
+/mnt/d/LOLv2/Real_captured/Train/Normal/00391.png	/mnt/d/LOLv2/Real_captured/Train/Low/00391.png	animal, christmas tree, decorate, table, doll, fruit, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00392.png	/mnt/d/LOLv2/Real_captured/Train/Low/00392.png	animal, christmas, christmas tree, decorate, table, doll, fruit, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00393.png	/mnt/d/LOLv2/Real_captured/Train/Low/00393.png	animal, christmas tree, decorate, table, doll, fruit, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00394.png	/mnt/d/LOLv2/Real_captured/Train/Low/00394.png	animal, christmas, christmas tree, decorate, table, doll, fruit, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00395.png	/mnt/d/LOLv2/Real_captured/Train/Low/00395.png	animal, christmas, christmas tree, decorate, table, doll, fruit, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00396.png	/mnt/d/LOLv2/Real_captured/Train/Low/00396.png	animal, book, table, doll, figurine, fruit, grape, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00397.png	/mnt/d/LOLv2/Real_captured/Train/Low/00397.png	animal, book, table, doll, figurine, fruit, grape, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00398.png	/mnt/d/LOLv2/Real_captured/Train/Low/00398.png	animal, book, table, doll, figurine, food, fruit, grape, owl, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00399.png	/mnt/d/LOLv2/Real_captured/Train/Low/00399.png	animal, book, table, doll, fruit, grape, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00400.png	/mnt/d/LOLv2/Real_captured/Train/Low/00400.png	animal, apple, decorate, table, figurine, fruit, sculpture, toy, vase
+/mnt/d/LOLv2/Real_captured/Train/Normal/00401.png	/mnt/d/LOLv2/Real_captured/Train/Low/00401.png	animal, apple, lamp, decorate, table, doll, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00402.png	/mnt/d/LOLv2/Real_captured/Train/Low/00402.png	animal, apple, decorate, table, figurine, fruit, sculpture, toy, vase
+/mnt/d/LOLv2/Real_captured/Train/Normal/00403.png	/mnt/d/LOLv2/Real_captured/Train/Low/00403.png	animal, apple, lamp, decorate, table, doll, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00404.png	/mnt/d/LOLv2/Real_captured/Train/Low/00404.png	decorate, table, floral arrangement, flower, fruit, produce, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00405.png	/mnt/d/LOLv2/Real_captured/Train/Low/00405.png	decorate, table, floral arrangement, flower, fruit, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00406.png	/mnt/d/LOLv2/Real_captured/Train/Low/00406.png	decorate, table, floral arrangement, flower, fruit, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00407.png	/mnt/d/LOLv2/Real_captured/Train/Low/00407.png	decorate, table, floral arrangement, flower, fruit, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00408.png	/mnt/d/LOLv2/Real_captured/Train/Low/00408.png	animal, table, display, doll, flower, owl, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00409.png	/mnt/d/LOLv2/Real_captured/Train/Low/00409.png	animal, table, display, doll, flower, owl, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00410.png	/mnt/d/LOLv2/Real_captured/Train/Low/00410.png	animal, table, doll, pillow, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00411.png	/mnt/d/LOLv2/Real_captured/Train/Low/00411.png	animal, table, doll, pillow, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00412.png	/mnt/d/LOLv2/Real_captured/Train/Low/00412.png	animal, cheese, christmas tree, decorate, table, room, shelf, snowman, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00413.png	/mnt/d/LOLv2/Real_captured/Train/Low/00413.png	animal, cheese, christmas tree, decorate, table, doll, plant, room, shelf, snowman, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00414.png	/mnt/d/LOLv2/Real_captured/Train/Low/00414.png	animal, cheese, christmas tree, decorate, table, doll, plant, room, shelf, snowman, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00415.png	/mnt/d/LOLv2/Real_captured/Train/Low/00415.png	animal, cheese, christmas tree, decorate, table, room, shelf, snowman, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00416.png	/mnt/d/LOLv2/Real_captured/Train/Low/00416.png	animal, christmas tree, decorate, table, doll, figurine, room, snowman, stuff, toy, tree
+/mnt/d/LOLv2/Real_captured/Train/Normal/00417.png	/mnt/d/LOLv2/Real_captured/Train/Low/00417.png	animal, christmas tree, decorate, table, doll, figurine, room, snowman, stuff, toy, tree
+/mnt/d/LOLv2/Real_captured/Train/Normal/00418.png	/mnt/d/LOLv2/Real_captured/Train/Low/00418.png	animal, christmas tree, decorate, table, doll, figurine, ghost, room, snowman, stuff, toy, tree
+/mnt/d/LOLv2/Real_captured/Train/Normal/00419.png	/mnt/d/LOLv2/Real_captured/Train/Low/00419.png	animal, table, doll, figurine, food, fruit, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00420.png	/mnt/d/LOLv2/Real_captured/Train/Low/00420.png	animal, cheese, table, doll, figurine, flower, food, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00421.png	/mnt/d/LOLv2/Real_captured/Train/Low/00421.png	animal, cheese, table, doll, figurine, flower, food, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00422.png	/mnt/d/LOLv2/Real_captured/Train/Low/00422.png	animal, cheese, table, doll, figurine, flower, food, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00423.png	/mnt/d/LOLv2/Real_captured/Train/Low/00423.png	animal, table, doll, figurine, fruit, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00424.png	/mnt/d/LOLv2/Real_captured/Train/Low/00424.png	animal, table, doll, figurine, flower, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00425.png	/mnt/d/LOLv2/Real_captured/Train/Low/00425.png	animal, table, doll, figurine, flower, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00426.png	/mnt/d/LOLv2/Real_captured/Train/Low/00426.png	animal, cheese, table, doll, figurine, flower, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00427.png	/mnt/d/LOLv2/Real_captured/Train/Low/00427.png	animal, apple, bottle, cheese, table, doll, figurine, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00428.png	/mnt/d/LOLv2/Real_captured/Train/Low/00428.png	animal, apple, clock, bottle, cheese, table, doll, figurine, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00429.png	/mnt/d/LOLv2/Real_captured/Train/Low/00429.png	animal, apple, cheese, table, doll, figurine, fruit, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00430.png	/mnt/d/LOLv2/Real_captured/Train/Low/00430.png	alarm clock, animal, clock, board game, table, doll, figurine, food, fruit, grape, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00431.png	/mnt/d/LOLv2/Real_captured/Train/Low/00431.png	alarm clock, animal, clock, board game, table, doll, figurine, fruit, grape, line, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00432.png	/mnt/d/LOLv2/Real_captured/Train/Low/00432.png	animal, box, table, plate, doll, figurine, food, fruit, platter, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00433.png	/mnt/d/LOLv2/Real_captured/Train/Low/00433.png	animal, box, table, plate, doll, figurine, food, fruit, platter, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00434.png	/mnt/d/LOLv2/Real_captured/Train/Low/00434.png	animal, box, table, plate, doll, figurine, food, fruit, platter, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00435.png	/mnt/d/LOLv2/Real_captured/Train/Low/00435.png	animal, table, doll, fruit, pillow, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00436.png	/mnt/d/LOLv2/Real_captured/Train/Low/00436.png	animal, table, doll, fruit, pillow, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00437.png	/mnt/d/LOLv2/Real_captured/Train/Low/00437.png	animal, table, doll, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00438.png	/mnt/d/LOLv2/Real_captured/Train/Low/00438.png	animal, arm, backpack, table, doll, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00439.png	/mnt/d/LOLv2/Real_captured/Train/Low/00439.png	animal, arm, backpack, table, doll, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00440.png	/mnt/d/LOLv2/Real_captured/Train/Low/00440.png	animal, arm, backpack, doll, fruit, man, pillow, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00441.png	/mnt/d/LOLv2/Real_captured/Train/Low/00441.png	animal, table, doll, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00442.png	/mnt/d/LOLv2/Real_captured/Train/Low/00442.png	animal, table, doll, floor, fruit, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00443.png	/mnt/d/LOLv2/Real_captured/Train/Low/00443.png	animal, table, doll, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00444.png	/mnt/d/LOLv2/Real_captured/Train/Low/00444.png	animal, backpack, bag, table, doll, office supply, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00445.png	/mnt/d/LOLv2/Real_captured/Train/Low/00445.png	animal, backpack, bag, table, doll, floor, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00446.png	/mnt/d/LOLv2/Real_captured/Train/Low/00446.png	animal, backpack, bag, table, doll, office supply, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00447.png	/mnt/d/LOLv2/Real_captured/Train/Low/00447.png	animal, baseball hat, baseball glove, table, doll, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00448.png	/mnt/d/LOLv2/Real_captured/Train/Low/00448.png	animal, baseball hat, baseball glove, table, doll, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00449.png	/mnt/d/LOLv2/Real_captured/Train/Low/00449.png	animal, backpack, baseball hat, baseball glove, table, doll, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00450.png	/mnt/d/LOLv2/Real_captured/Train/Low/00450.png	animal, backpack, baseball hat, baseball glove, table, doll, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00451.png	/mnt/d/LOLv2/Real_captured/Train/Low/00451.png	animal, backpack, bag, table, doll, figurine, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00452.png	/mnt/d/LOLv2/Real_captured/Train/Low/00452.png	animal, backpack, bag, table, doll, figurine, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00453.png	/mnt/d/LOLv2/Real_captured/Train/Low/00453.png	animal, backpack, table, doll, figurine, fruit, room, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00454.png	/mnt/d/LOLv2/Real_captured/Train/Low/00454.png	animal, apple, backpack, bag, table, doll, food, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00455.png	/mnt/d/LOLv2/Real_captured/Train/Low/00455.png	animal, apple, backpack, bag, table, plate, doll, food, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00456.png	/mnt/d/LOLv2/Real_captured/Train/Low/00456.png	animal, apple, backpack, bag, table, plate, doll, food, fruit, sit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00457.png	/mnt/d/LOLv2/Real_captured/Train/Low/00457.png	animal, doll, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00458.png	/mnt/d/LOLv2/Real_captured/Train/Low/00458.png	animal, table, doll, figurine, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00459.png	/mnt/d/LOLv2/Real_captured/Train/Low/00459.png	animal, table, doll, figurine, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00460.png	/mnt/d/LOLv2/Real_captured/Train/Low/00460.png	animal, doll, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00461.png	/mnt/d/LOLv2/Real_captured/Train/Low/00461.png	animal, apple, cheese, table, doll, food, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00462.png	/mnt/d/LOLv2/Real_captured/Train/Low/00462.png	animal, apple, table, doll, food, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00463.png	/mnt/d/LOLv2/Real_captured/Train/Low/00463.png	animal, apple, cheese, table, doll, food, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00464.png	/mnt/d/LOLv2/Real_captured/Train/Low/00464.png	animal, apple, table, doll, food, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00465.png	/mnt/d/LOLv2/Real_captured/Train/Low/00465.png	animal, apple, table, plate, doll, figurine, food, fruit, platter, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00466.png	/mnt/d/LOLv2/Real_captured/Train/Low/00466.png	animal, apple, table, plate, doll, figurine, food, fruit, orange, platter, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00467.png	/mnt/d/LOLv2/Real_captured/Train/Low/00467.png	animal, apple, table, plate, doll, figurine, food, fruit, platter, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00468.png	/mnt/d/LOLv2/Real_captured/Train/Low/00468.png	animal, cupcake, table, plate, doll, food, fruit, melon, pillow, platter, sit, sew, stuff, toy, watermelon
+/mnt/d/LOLv2/Real_captured/Train/Normal/00469.png	/mnt/d/LOLv2/Real_captured/Train/Low/00469.png	animal, ball, cube, table, plate, doll, line, platter, reel, sit, sponge, stuff, toy, wool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00470.png	/mnt/d/LOLv2/Real_captured/Train/Low/00470.png	animal, apple, cupcake, table, doll, food, fruit, office supply, sit, stuff, toy, vegetable
+/mnt/d/LOLv2/Real_captured/Train/Normal/00471.png	/mnt/d/LOLv2/Real_captured/Train/Low/00471.png	animal, table, doll, sit, sponge, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00472.png	/mnt/d/LOLv2/Real_captured/Train/Low/00472.png	animal, bottle, table, doll, sit, sponge, stuff, toy, yellow
+/mnt/d/LOLv2/Real_captured/Train/Normal/00473.png	/mnt/d/LOLv2/Real_captured/Train/Low/00473.png	animal, bottle, can, table, flower, pillow, plant, sit, sponge, stuff, toy, yellow
+/mnt/d/LOLv2/Real_captured/Train/Normal/00474.png	/mnt/d/LOLv2/Real_captured/Train/Low/00474.png	animal, ball, bottle, table, plate, doll, food, fruit, line, platter, sit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00475.png	/mnt/d/LOLv2/Real_captured/Train/Low/00475.png	alarm clock, animal, bag, ball, clock, table, plate, doll, food, fruit, line, pillow, platter, sit, stuff, toy, wool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00476.png	/mnt/d/LOLv2/Real_captured/Train/Low/00476.png	alarm clock, animal, ball, clock, bottle, cupcake, table, food, fruit, line, office supply, pillow, sit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00477.png	/mnt/d/LOLv2/Real_captured/Train/Low/00477.png	animal, cereal, table, doll, food, fruit, fruit salad, juice, milk, platter, sit, sew, stuff, toy, tray
+/mnt/d/LOLv2/Real_captured/Train/Normal/00478.png	/mnt/d/LOLv2/Real_captured/Train/Low/00478.png	alarm clock, animal, table, doll, food, fruit, office supply, sit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00479.png	/mnt/d/LOLv2/Real_captured/Train/Low/00479.png	alarm clock, bag, clock, bottle, table, food, fruit, line, office supply, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00480.png	/mnt/d/LOLv2/Real_captured/Train/Low/00480.png	animal, cheese, table, plate, doll, food, fruit, platter, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00481.png	/mnt/d/LOLv2/Real_captured/Train/Low/00481.png	animal, cheese, table, plate, doll, food, fruit, platter, sit, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00482.png	/mnt/d/LOLv2/Real_captured/Train/Low/00482.png	animal, cheese, table, plate, doll, food, fruit, platter, sit, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00483.png	/mnt/d/LOLv2/Real_captured/Train/Low/00483.png	animal, box, cheese, table, plate, doll, food, fruit, platter, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00484.png	/mnt/d/LOLv2/Real_captured/Train/Low/00484.png	animal, table, doll, food, fruit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00485.png	/mnt/d/LOLv2/Real_captured/Train/Low/00485.png	animal, plate, doll, food, fruit, pillow, platter, sit, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00486.png	/mnt/d/LOLv2/Real_captured/Train/Low/00486.png	animal, table, plate, doll, food, fruit, platter, sit, sew, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00487.png	/mnt/d/LOLv2/Real_captured/Train/Low/00487.png	animal, table, plate, doll, food, fruit, platter, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00488.png	/mnt/d/LOLv2/Real_captured/Train/Low/00488.png	animal, backpack, bottle, table, doll, food, fruit, pillow, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00489.png	/mnt/d/LOLv2/Real_captured/Train/Low/00489.png	animal, backpack, baseball hat, bottle, table, doll, ladder, sit, snowman, stuff, teddy, toy, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00490.png	/mnt/d/LOLv2/Real_captured/Train/Low/00490.png	animal, baseball hat, bottle, doll, pillow, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00491.png	/mnt/d/LOLv2/Real_captured/Train/Low/00491.png	animal, bottle, table, doll, fruit, pillow, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00492.png	/mnt/d/LOLv2/Real_captured/Train/Low/00492.png	animal, ball, book, bottle, table, doll, fruit, grape, line, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00493.png	/mnt/d/LOLv2/Real_captured/Train/Low/00493.png	animal, bottle, doll, fruit, grape, line, pillow, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00494.png	/mnt/d/LOLv2/Real_captured/Train/Low/00494.png	animal, bottle, table, doll, fruit, grape, pillow, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00495.png	/mnt/d/LOLv2/Real_captured/Train/Low/00495.png	animal, bottle, table, doll, fruit, grape, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00496.png	/mnt/d/LOLv2/Real_captured/Train/Low/00496.png	animal, table, plate, doll, food, fruit, platter, sit, sew, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00497.png	/mnt/d/LOLv2/Real_captured/Train/Low/00497.png	animal, table, plate, doll, food, fruit, platter, sit, stuff, teddy, toy, tray
+/mnt/d/LOLv2/Real_captured/Train/Normal/00498.png	/mnt/d/LOLv2/Real_captured/Train/Low/00498.png	animal, backpack, book, table, doll, fruit, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00499.png	/mnt/d/LOLv2/Real_captured/Train/Low/00499.png	animal, doll, food, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00500.png	/mnt/d/LOLv2/Real_captured/Train/Low/00500.png	animal, box, table, doll, fruit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00501.png	/mnt/d/LOLv2/Real_captured/Train/Low/00501.png	animal, box, table, plate, doll, fruit, platter, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00502.png	/mnt/d/LOLv2/Real_captured/Train/Low/00502.png	animal, bottle, can, christmas tree, decorate, doll, sit, stuff, teddy, toy, tree
+/mnt/d/LOLv2/Real_captured/Train/Normal/00503.png	/mnt/d/LOLv2/Real_captured/Train/Low/00503.png	animal, bag, boot, cowboy boot, plate, doll, food, fruit, fruit salad, handbag, platter, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00504.png	/mnt/d/LOLv2/Real_captured/Train/Low/00504.png	animal, table, doll, flower, fruit, plant, sit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00505.png	/mnt/d/LOLv2/Real_captured/Train/Low/00505.png	animal, christmas tree, decorate, table, doll, fruit, snowman, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00506.png	/mnt/d/LOLv2/Real_captured/Train/Low/00506.png	animal, decorate, table, display, doll, flower, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00507.png	/mnt/d/LOLv2/Real_captured/Train/Low/00507.png	animal, apple, backpack, bag, bottle, table, doll, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00508.png	/mnt/d/LOLv2/Real_captured/Train/Low/00508.png	animal, apple, backpack, bag, bottle, container, table, doll, fruit, sit, snowman, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00509.png	/mnt/d/LOLv2/Real_captured/Train/Low/00509.png	alarm clock, animal, apple, backpack, table, doll, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00510.png	/mnt/d/LOLv2/Real_captured/Train/Low/00510.png	animal, table, doll, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00511.png	/mnt/d/LOLv2/Real_captured/Train/Low/00511.png	animal, apple, backpack, bag, baseball glove, bottle, table, doll, fruit, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00512.png	/mnt/d/LOLv2/Real_captured/Train/Low/00512.png	alarm clock, animal, apple, counter top, cupcake, table, doll, food, fruit, grape, line, muffin, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00513.png	/mnt/d/LOLv2/Real_captured/Train/Low/00513.png	alarm clock, animal, table, doll, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00514.png	/mnt/d/LOLv2/Real_captured/Train/Low/00514.png	alarm clock, animal, apple, backpack, bag, table, doll, fruit, line, pillow, stuff, toy, wool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00515.png	/mnt/d/LOLv2/Real_captured/Train/Low/00515.png	animal, backpack, bag, table, doll, fruit, puppet, sock, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00516.png	/mnt/d/LOLv2/Real_captured/Train/Low/00516.png	animal, apple, backpack, table, doll, food, fruit, line, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00517.png	/mnt/d/LOLv2/Real_captured/Train/Low/00517.png	animal, apple, backpack, bag, table, doll, fruit, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00518.png	/mnt/d/LOLv2/Real_captured/Train/Low/00518.png	animal, apple, backpack, baseball hat, baseball glove, table, doll, fruit, hat, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00519.png	/mnt/d/LOLv2/Real_captured/Train/Low/00519.png	animal, table, doll, fruit, pillow, room, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00520.png	/mnt/d/LOLv2/Real_captured/Train/Low/00520.png	alarm clock, animal, clock, cupcake, table, doll, food, fruit, grape, melon, muffin, package, stuff, toy, watermelon
+/mnt/d/LOLv2/Real_captured/Train/Normal/00521.png	/mnt/d/LOLv2/Real_captured/Train/Low/00521.png	animal, table, doll, food, fruit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00522.png	/mnt/d/LOLv2/Real_captured/Train/Low/00522.png	animal, apple, backpack, bag, table, plate, doll, figurine, food, fruit, platter, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00523.png	/mnt/d/LOLv2/Real_captured/Train/Low/00523.png	animal, apple, backpack, bag, table, plate, food, fruit, pillow, platter, stuff, toy, vegetable
+/mnt/d/LOLv2/Real_captured/Train/Normal/00524.png	/mnt/d/LOLv2/Real_captured/Train/Low/00524.png	basket, bin, box, container, crate, table, electronic, equipment, laundry basket, office supply, pen, ribbon, tool, toy, tray
+/mnt/d/LOLv2/Real_captured/Train/Normal/00525.png	/mnt/d/LOLv2/Real_captured/Train/Low/00525.png	basket, bin, box, container, crate, table, electronic, equipment, laundry basket, office supply, pen, ribbon, tool, toy, tray
+/mnt/d/LOLv2/Real_captured/Train/Normal/00526.png	/mnt/d/LOLv2/Real_captured/Train/Low/00526.png	alcohol, beverage, bottle, can, cloth, control, counter, counter top, electronic, kitchen counter, ledge, plant, purple, remote, sit, soda, tube, window, window sill
+/mnt/d/LOLv2/Real_captured/Train/Normal/00527.png	/mnt/d/LOLv2/Real_captured/Train/Low/00527.png	beverage, bottle, can, ceiling fan, cloth, control, counter, counter top, electronic, fan, kitchen counter, ledge, plant, purple, remote, sit, soda, toothpaste, tube, window, window sill
+/mnt/d/LOLv2/Real_captured/Train/Normal/00528.png	/mnt/d/LOLv2/Real_captured/Train/Low/00528.png	alcohol, bag, bottle, box, condiment, table, doll, figurine, girl, package, shelf, sit, soda, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00529.png	/mnt/d/LOLv2/Real_captured/Train/Low/00529.png	alcohol, bag, bottle, box, condiment, table, doll, figurine, girl, shelf, sit, soda, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00530.png	/mnt/d/LOLv2/Real_captured/Train/Low/00530.png	alcohol, bag, bottle, box, condiment, table, doll, figurine, girl, shelf, sit, soda, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00531.png	/mnt/d/LOLv2/Real_captured/Train/Low/00531.png	alcohol, bag, bottle, box, condiment, table, doll, figurine, girl, shelf, sit, soda, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00532.png	/mnt/d/LOLv2/Real_captured/Train/Low/00532.png	lighthouse, book, bottle, lamp, cloth, coffee cup, table, figurine, key, office supply, open, pen, pink, ribbon, torch
+/mnt/d/LOLv2/Real_captured/Train/Normal/00533.png	/mnt/d/LOLv2/Real_captured/Train/Low/00533.png	lighthouse, book, bottle, lamp, cloth, coffee cup, table, figurine, key, office supply, open, pen, pink, ribbon, torch
+/mnt/d/LOLv2/Real_captured/Train/Normal/00534.png	/mnt/d/LOLv2/Real_captured/Train/Low/00534.png	book, bookshelf, lamp, table, nightstand, office supply, peak, pen, pencil, phone, wall lamp, shelf, sit, stack, tool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00535.png	/mnt/d/LOLv2/Real_captured/Train/Low/00535.png	book, bookshelf, lamp, table, nightstand, office supply, peak, pen, pencil, phone, wall lamp, shelf, sit, stack, tool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00536.png	/mnt/d/LOLv2/Real_captured/Train/Low/00536.png	book, bookcase, bookshelf, curtain, green, greenery, grow, houseplant, ivy, plant, room, shelf, shelve, vine
+/mnt/d/LOLv2/Real_captured/Train/Normal/00537.png	/mnt/d/LOLv2/Real_captured/Train/Low/00537.png	book, bookcase, bookshelf, curtain, green, greenery, grow, houseplant, ivy, plant, room, shelf, shelve, vine
+/mnt/d/LOLv2/Real_captured/Train/Normal/00538.png	/mnt/d/LOLv2/Real_captured/Train/Low/00538.png	book, bookcase, bookshelf, fill, green, greenery, grow, hang, houseplant, indoor, ivy, plant, shelf, shelve, vine
+/mnt/d/LOLv2/Real_captured/Train/Normal/00539.png	/mnt/d/LOLv2/Real_captured/Train/Low/00539.png	book, bookcase, bookshelf, fill, green, greenery, grow, houseplant, ivy, plant, room, shelf, shelve, vine
+/mnt/d/LOLv2/Real_captured/Train/Normal/00540.png	/mnt/d/LOLv2/Real_captured/Train/Low/00540.png	banknote, bill, cash, coin, currency, table, envelope, floor, money, note
+/mnt/d/LOLv2/Real_captured/Train/Normal/00541.png	/mnt/d/LOLv2/Real_captured/Train/Low/00541.png	banknote, bill, cash, coin, currency, table, envelope, floor, money, note
+/mnt/d/LOLv2/Real_captured/Train/Normal/00542.png	/mnt/d/LOLv2/Real_captured/Train/Low/00542.png	bag, bottle, cloth, container, table, dragon, ink, material, package, pen, soap
+/mnt/d/LOLv2/Real_captured/Train/Normal/00543.png	/mnt/d/LOLv2/Real_captured/Train/Low/00543.png	bag, bottle, cloth, container, table, dragon, ink, material, napkin, package, paper towel, pen, soap
+/mnt/d/LOLv2/Real_captured/Train/Normal/00544.png	/mnt/d/LOLv2/Real_captured/Train/Low/00544.png	bottle, box, container, cosmetic, package, product, shampoo, shelf, shelve, toiletry
+/mnt/d/LOLv2/Real_captured/Train/Normal/00545.png	/mnt/d/LOLv2/Real_captured/Train/Low/00545.png	bottle, box, container, cosmetic, package, product, shampoo, shelf, shelve, toiletry
+/mnt/d/LOLv2/Real_captured/Train/Normal/00546.png	/mnt/d/LOLv2/Real_captured/Train/Low/00546.png	book, computer desk, table, electronic, office supply, open, pen, stack
+/mnt/d/LOLv2/Real_captured/Train/Normal/00547.png	/mnt/d/LOLv2/Real_captured/Train/Low/00547.png	book, computer desk, table, electronic, office supply, open, pen, stack
+/mnt/d/LOLv2/Real_captured/Train/Normal/00548.png	/mnt/d/LOLv2/Real_captured/Train/Low/00548.png	bag, bin, charger, table, electronic, equipment, floor, gadget, glasses, ipod, mp3 player, office supply, pen, phone
+/mnt/d/LOLv2/Real_captured/Train/Normal/00549.png	/mnt/d/LOLv2/Real_captured/Train/Low/00549.png	bag, bin, charger, table, electronic, equipment, floor, gadget, glasses, ipod, mp3 player, office supply, pen, phone, plug, stack
+/mnt/d/LOLv2/Real_captured/Train/Normal/00550.png	/mnt/d/LOLv2/Real_captured/Train/Low/00550.png	bag, box, table, electronic, floor, handbag, notebook, notepad, office supply, package, pen, pouch, strap, tool, tray
+/mnt/d/LOLv2/Real_captured/Train/Normal/00551.png	/mnt/d/LOLv2/Real_captured/Train/Low/00551.png	bag, box, case, CD, table, electronic, floor, handbag, notebook, office supply, package, pen, pouch, strap
+/mnt/d/LOLv2/Real_captured/Train/Normal/00552.png	/mnt/d/LOLv2/Real_captured/Train/Low/00552.png	bag, battery, bottle, container, counter top, table, electronic, equipment, glass vase, office supply, package, pen, scale, toiletry, tool, toothpaste, tray, tube
+/mnt/d/LOLv2/Real_captured/Train/Normal/00553.png	/mnt/d/LOLv2/Real_captured/Train/Low/00553.png	bag, bottle, lamp, container, table, electronic, glass vase, office supply, package, pen, toiletry, tool, toothpaste, tray, tube
+/mnt/d/LOLv2/Real_captured/Train/Normal/00554.png	/mnt/d/LOLv2/Real_captured/Train/Low/00554.png	animal, bunny, slipper, crayon, table, doll, mark, office supply, pen, pencil, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00555.png	/mnt/d/LOLv2/Real_captured/Train/Low/00555.png	animal, bunny, slipper, crayon, table, doll, mark, office supply, pen, pencil, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00556.png	/mnt/d/LOLv2/Real_captured/Train/Low/00556.png	animal, bunny, slipper, computer desk, crayon, table, doll, mark, office supply, pen, pencil, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00557.png	/mnt/d/LOLv2/Real_captured/Train/Low/00557.png	animal, bunny, slipper, computer desk, crayon, table, doll, mark, office supply, pen, pencil, sit, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00558.png	/mnt/d/LOLv2/Real_captured/Train/Low/00558.png	air conditioner, ceiling fan, cooler, corner, infant bed, fan, floor, floor fan, heater, radiator, room, sit, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00559.png	/mnt/d/LOLv2/Real_captured/Train/Low/00559.png	air conditioner, cage, ceiling fan, cooler, corner, infant bed, crate, fan, floor, floor fan, heater, radiator, room, sit
+/mnt/d/LOLv2/Real_captured/Train/Normal/00560.png	/mnt/d/LOLv2/Real_captured/Train/Low/00560.png	baseball, baseball glove, build, building, construction site, construction worker, scaffold, sports ball
+/mnt/d/LOLv2/Real_captured/Train/Normal/00561.png	/mnt/d/LOLv2/Real_captured/Train/Low/00561.png	baseball, baseball glove, build, building, construction site, construction worker, scaffold, sports ball
+/mnt/d/LOLv2/Real_captured/Train/Normal/00562.png	/mnt/d/LOLv2/Real_captured/Train/Low/00562.png	build, building, concrete, construction site, construction worker, floor, foundation, scaffold
+/mnt/d/LOLv2/Real_captured/Train/Normal/00563.png	/mnt/d/LOLv2/Real_captured/Train/Low/00563.png	build, building, concrete, construction site, construction worker, floor, foundation, scaffold
+/mnt/d/LOLv2/Real_captured/Train/Normal/00564.png	/mnt/d/LOLv2/Real_captured/Train/Low/00564.png	building, city, roof, tree
+/mnt/d/LOLv2/Real_captured/Train/Normal/00565.png	/mnt/d/LOLv2/Real_captured/Train/Low/00565.png	building, city, roof, tree
+/mnt/d/LOLv2/Real_captured/Train/Normal/00566.png	/mnt/d/LOLv2/Real_captured/Train/Low/00566.png	apartment, build, building, construction site, construction worker, crane, rise building, yellow
+/mnt/d/LOLv2/Real_captured/Train/Normal/00567.png	/mnt/d/LOLv2/Real_captured/Train/Low/00567.png	apartment, build, building, construction site, construction worker, crane, rise building, yellow
+/mnt/d/LOLv2/Real_captured/Train/Normal/00568.png	/mnt/d/LOLv2/Real_captured/Train/Low/00568.png	apartment, balcony, building, laundry, stand, traffic light, window
+/mnt/d/LOLv2/Real_captured/Train/Normal/00569.png	/mnt/d/LOLv2/Real_captured/Train/Low/00569.png	apartment, balcony, building, laundry, stand, stop light, traffic light, window
+/mnt/d/LOLv2/Real_captured/Train/Normal/00570.png	/mnt/d/LOLv2/Real_captured/Train/Low/00570.png	building, city, football field, mountain, stadium, tree
+/mnt/d/LOLv2/Real_captured/Train/Normal/00571.png	/mnt/d/LOLv2/Real_captured/Train/Low/00571.png	building, city, mountain, stadium, tree
+/mnt/d/LOLv2/Real_captured/Train/Normal/00572.png	/mnt/d/LOLv2/Real_captured/Train/Low/00572.png	building, city, mountain, sky, tree
+/mnt/d/LOLv2/Real_captured/Train/Normal/00573.png	/mnt/d/LOLv2/Real_captured/Train/Low/00573.png	blind, bottle, curtain, door, doorway, glass door, screen door, slide, window, window sill
+/mnt/d/LOLv2/Real_captured/Train/Normal/00574.png	/mnt/d/LOLv2/Real_captured/Train/Low/00574.png	blind, bottle, curtain, door, doorway, glass door, screen door, slide, window, window sill
+/mnt/d/LOLv2/Real_captured/Train/Normal/00575.png	/mnt/d/LOLv2/Real_captured/Train/Low/00575.png	wall, building, ceiling, corridor, doorway, floor, green, hall, light, lead to, hallway, room, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00576.png	/mnt/d/LOLv2/Real_captured/Train/Low/00576.png	wall, building, ceiling, corridor, doorway, floor, green, hall, light, lead to, hallway, room, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00577.png	/mnt/d/LOLv2/Real_captured/Train/Low/00577.png	attach, bath, bathroom, bathroom accessory, bathroom mirror, bathroom sink, wall, faucet, floor, restroom, room, sink, tile wall, tool, tub, urinal, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00578.png	/mnt/d/LOLv2/Real_captured/Train/Low/00578.png	attach, bath, bathroom, bathroom accessory, bathroom mirror, bathroom sink, wall, faucet, floor, restroom, room, sink, tile wall, tool, towel bar, tub, urinal, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00579.png	/mnt/d/LOLv2/Real_captured/Train/Low/00579.png	baseball bat, bath, bathroom, bathroom accessory, bathroom sink, wall, broom, floor, pink, restroom, sign, sink, tile wall, tool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00580.png	/mnt/d/LOLv2/Real_captured/Train/Low/00580.png	attach, baseball bat, bath, bathroom, bathroom accessory, bathroom sink, wall, broom, faucet, floor, pink, pole, restroom, sign, sink, tile wall, tool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00581.png	/mnt/d/LOLv2/Real_captured/Train/Low/00581.png	attach, baseball bat, bath, bathroom, bathroom accessory, bathroom sink, wall, broom, faucet, floor, pink, pole, restroom, sign, sink, tile wall, tool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00582.png	/mnt/d/LOLv2/Real_captured/Train/Low/00582.png	attach, baseball bat, bath, bathroom, bathroom accessory, bathroom sink, wall, broom, faucet, floor, pink, pole, restroom, sign, sink, tile wall, tool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00583.png	/mnt/d/LOLv2/Real_captured/Train/Low/00583.png	attach, baseball bat, bath, bathroom, bathroom accessory, bathroom sink, wall, broom, faucet, floor, pink, pole, restroom, sign, sink, tile wall, tool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00584.png	/mnt/d/LOLv2/Real_captured/Train/Low/00584.png	attach, baseball bat, bath, bathroom, bathroom accessory, bathroom sink, wall, broom, faucet, floor, pink, pole, restroom, sign, sink, tile wall, tool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00585.png	/mnt/d/LOLv2/Real_captured/Train/Low/00585.png	appliance, bottle, detergent, dish washer, floor, home appliance, laundromat, laundry, laundry room, room, washer, washing machine
+/mnt/d/LOLv2/Real_captured/Train/Normal/00586.png	/mnt/d/LOLv2/Real_captured/Train/Low/00586.png	appliance, bottle, detergent, dish washer, floor, home appliance, laundromat, laundry, laundry room, room, washer, washing machine
+/mnt/d/LOLv2/Real_captured/Train/Normal/00587.png	/mnt/d/LOLv2/Real_captured/Train/Low/00587.png	appliance, bottle, detergent, dish washer, floor, home appliance, laundromat, laundry, laundry room, room, washer, washing machine
+/mnt/d/LOLv2/Real_captured/Train/Normal/00588.png	/mnt/d/LOLv2/Real_captured/Train/Low/00588.png	appliance, bottle, detergent, dish washer, floor, home appliance, laundromat, laundry, laundry room, room, washer, washing machine
+/mnt/d/LOLv2/Real_captured/Train/Normal/00589.png	/mnt/d/LOLv2/Real_captured/Train/Low/00589.png	appliance, bottle, detergent, dish washer, floor, home appliance, laundromat, laundry, laundry room, room, washer, washing machine
+/mnt/d/LOLv2/Real_captured/Train/Normal/00590.png	/mnt/d/LOLv2/Real_captured/Train/Low/00590.png	appliance, bottle, detergent, dish washer, floor, home appliance, laundromat, laundry, laundry room, room, washer, washing machine
+/mnt/d/LOLv2/Real_captured/Train/Normal/00591.png	/mnt/d/LOLv2/Real_captured/Train/Low/00591.png	appliance, bottle, detergent, dish washer, floor, home appliance, laundromat, laundry, laundry room, room, washer, washing machine
+/mnt/d/LOLv2/Real_captured/Train/Normal/00592.png	/mnt/d/LOLv2/Real_captured/Train/Low/00592.png	bathroom, bathroom accessory, curtain, floor, heater, radiator, room, screen door, shower, shower curtain, tile wall, towel bar, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00593.png	/mnt/d/LOLv2/Real_captured/Train/Low/00593.png	bathroom, bathroom accessory, curtain, floor, heater, radiator, room, screen door, shower, shower curtain, tile wall, towel bar, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00594.png	/mnt/d/LOLv2/Real_captured/Train/Low/00594.png	bathroom, bathroom accessory, curtain, glass door, meter, radiator, screen door, shower, shower curtain, shower door, shower head, tile wall, towel bar, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00595.png	/mnt/d/LOLv2/Real_captured/Train/Low/00595.png	bathroom, bathroom accessory, curtain, glass door, meter, radiator, screen door, shower, shower curtain, shower door, shower head, tile wall, towel bar, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00596.png	/mnt/d/LOLv2/Real_captured/Train/Low/00596.png	bathroom, bathroom accessory, curtain, glass door, meter, radiator, screen door, shower, shower curtain, shower door, shower head, tile wall, towel bar, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00597.png	/mnt/d/LOLv2/Real_captured/Train/Low/00597.png	bathroom, bathroom accessory, curtain, glass door, meter, radiator, screen door, shower, shower curtain, shower door, shower head, tile wall, towel bar, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00598.png	/mnt/d/LOLv2/Real_captured/Train/Low/00598.png	basin, bathroom, bathroom accessory, bathroom sink, black, bottle, counter top, drain, faucet, sink, soap, sponge, tile wall, tool, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00599.png	/mnt/d/LOLv2/Real_captured/Train/Low/00599.png	basin, bathroom, bathroom accessory, bathroom sink, black, bottle, counter top, drain, faucet, sink, soap, sponge, tile wall, tool, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00600.png	/mnt/d/LOLv2/Real_captured/Train/Low/00600.png	attach, bathroom, wall, floor, line, restroom, room, row, tile, tile wall, urinal, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00601.png	/mnt/d/LOLv2/Real_captured/Train/Low/00601.png	attach, bathroom, wall, floor, line, restroom, room, row, tile, tile wall, urinal, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00602.png	/mnt/d/LOLv2/Real_captured/Train/Low/00602.png	bathroom, doorway, elevator, floor, green, room, window
+/mnt/d/LOLv2/Real_captured/Train/Normal/00603.png	/mnt/d/LOLv2/Real_captured/Train/Low/00603.png	bathroom, doorway, elevator, floor, green, lead to, room, stairwell, window
+/mnt/d/LOLv2/Real_captured/Train/Normal/00604.png	/mnt/d/LOLv2/Real_captured/Train/Low/00604.png	animal, attach, bathroom, wall, bulletin board, corkboard, doorway, hang, hippo, magnet, poster, room, sign
+/mnt/d/LOLv2/Real_captured/Train/Normal/00605.png	/mnt/d/LOLv2/Real_captured/Train/Low/00605.png	animal, attach, wall, bulletin board, doorway, hang, hippo, magnet, poster, room, sign
+/mnt/d/LOLv2/Real_captured/Train/Normal/00606.png	/mnt/d/LOLv2/Real_captured/Train/Low/00606.png	book, bookcase, bookshelf, closet, curtain, fill, office supply, plant, room, shelf, shelve
+/mnt/d/LOLv2/Real_captured/Train/Normal/00607.png	/mnt/d/LOLv2/Real_captured/Train/Low/00607.png	book, bookcase, bookshelf, closet, curtain, fill, office supply, plant, room, shelf, shelve
+/mnt/d/LOLv2/Real_captured/Train/Normal/00608.png	/mnt/d/LOLv2/Real_captured/Train/Low/00608.png	book, bookcase, bookshelf, closet, curtain, fill, office supply, plant, room, shelf, shelve, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00609.png	/mnt/d/LOLv2/Real_captured/Train/Low/00609.png	book, bookcase, bookshelf, closet, curtain, fill, office supply, plant, room, shelf, shelve, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00610.png	/mnt/d/LOLv2/Real_captured/Train/Low/00610.png	blanket, closet, clothe, clothing, clothesline, hang, hanger, poncho, purple, room, shelf, shirt, sweater
+/mnt/d/LOLv2/Real_captured/Train/Normal/00611.png	/mnt/d/LOLv2/Real_captured/Train/Low/00611.png	blanket, closet, clothe, clothing, clothesline, hang, hanger, poncho, purple, room, shelf, shirt, sweater
+/mnt/d/LOLv2/Real_captured/Train/Normal/00612.png	/mnt/d/LOLv2/Real_captured/Train/Low/00612.png	air conditioner, bookcase, bookshelf, ceiling, closet, curtain, electronic, plant, room, shelf, shelve
+/mnt/d/LOLv2/Real_captured/Train/Normal/00613.png	/mnt/d/LOLv2/Real_captured/Train/Low/00613.png	air conditioner, book, bookcase, bookshelf, ceiling, closet, curtain, electronic, plant, room, shelf, shelve
+/mnt/d/LOLv2/Real_captured/Train/Normal/00614.png	/mnt/d/LOLv2/Real_captured/Train/Low/00614.png	bureau, chair, table, drawer, drill, floor, luggage, pink, room, screwdriver, sit, stool, tool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00615.png	/mnt/d/LOLv2/Real_captured/Train/Low/00615.png	bureau, chair, table, drawer, drill, floor, luggage, pink, room, screwdriver, sit, stool, tool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00616.png	/mnt/d/LOLv2/Real_captured/Train/Low/00616.png	bag, bin, box, bureau, cabinet, cardboard box, closet, container, drawer, electronic, equipment, floor, package, radio, room, tool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00617.png	/mnt/d/LOLv2/Real_captured/Train/Low/00617.png	bag, bin, box, bureau, cabinet, cardboard box, closet, container, drawer, electronic, equipment, floor, garbage, package, radio, room, tool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00618.png	/mnt/d/LOLv2/Real_captured/Train/Low/00618.png	animal, binder, book, bookshelf, brush, closet, comb, table, office supply, pen, shelf, stuff, toiletry, tool, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00619.png	/mnt/d/LOLv2/Real_captured/Train/Low/00619.png	animal, book, bookshelf, brush, closet, comb, table, office supply, pen, shelf, stuff, toiletry, tool, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00620.png	/mnt/d/LOLv2/Real_captured/Train/Low/00620.png	book, bookcase, bookshelf, fill, office supply, pen, plant, room, shelf, shelve
+/mnt/d/LOLv2/Real_captured/Train/Normal/00621.png	/mnt/d/LOLv2/Real_captured/Train/Low/00621.png	book, bookcase, bookshelf, lamp, fill, office supply, plant, room, shelf, shelve
+/mnt/d/LOLv2/Real_captured/Train/Normal/00622.png	/mnt/d/LOLv2/Real_captured/Train/Low/00622.png	attach, bulletin board, ghost, halloween, hang, locker, magnet, poster, writing
+/mnt/d/LOLv2/Real_captured/Train/Normal/00623.png	/mnt/d/LOLv2/Real_captured/Train/Low/00623.png	attach, bulletin board, ghost, halloween, hang, locker, magnet, poster, writing
+/mnt/d/LOLv2/Real_captured/Train/Normal/00624.png	/mnt/d/LOLv2/Real_captured/Train/Low/00624.png	book, bookshelf, lamp, bureau, cabinet, closet, table lamp, drawer, file, file cabinet, lamp shade, office supply, peak, shelf, stack, toothpaste
+/mnt/d/LOLv2/Real_captured/Train/Normal/00625.png	/mnt/d/LOLv2/Real_captured/Train/Low/00625.png	book, bookshelf, lamp, bureau, cabinet, closet, table lamp, drawer, file, file cabinet, lamp shade, office supply, peak, shelf, stack, toothpaste
+/mnt/d/LOLv2/Real_captured/Train/Normal/00626.png	/mnt/d/LOLv2/Real_captured/Train/Low/00626.png	book, bookshelf, lamp, bureau, cabinet, closet, table lamp, drawer, file, file cabinet, lamp shade, office supply, peak, shelf, stack, toothpaste
+/mnt/d/LOLv2/Real_captured/Train/Normal/00627.png	/mnt/d/LOLv2/Real_captured/Train/Low/00627.png	lamp, bureau, cabinet, closet, drawer, hide, locker, office supply, pen, room, shelf
+/mnt/d/LOLv2/Real_captured/Train/Normal/00628.png	/mnt/d/LOLv2/Real_captured/Train/Low/00628.png	lamp, bureau, cabinet, closet, drawer, locker, office supply, pen, room, shelf
+/mnt/d/LOLv2/Real_captured/Train/Normal/00629.png	/mnt/d/LOLv2/Real_captured/Train/Low/00629.png	bag, bookshelf, closet, floor, hide, room, sandal, shelf
+/mnt/d/LOLv2/Real_captured/Train/Normal/00630.png	/mnt/d/LOLv2/Real_captured/Train/Low/00630.png	bag, bookshelf, closet, floor, hide, room, sandal, shelf
+/mnt/d/LOLv2/Real_captured/Train/Normal/00631.png	/mnt/d/LOLv2/Real_captured/Train/Low/00631.png	bag, bookshelf, closet, floor, hide, room, sandal, shelf
+/mnt/d/LOLv2/Real_captured/Train/Normal/00632.png	/mnt/d/LOLv2/Real_captured/Train/Low/00632.png	bag, bureau, closet, drawer, floor, hide, locker, shelf
+/mnt/d/LOLv2/Real_captured/Train/Normal/00633.png	/mnt/d/LOLv2/Real_captured/Train/Low/00633.png	backpack, bag, book, bookcase, bookshelf, fill, office supply, shelf, tea pot
+/mnt/d/LOLv2/Real_captured/Train/Normal/00634.png	/mnt/d/LOLv2/Real_captured/Train/Low/00634.png	backpack, bag, book, bookcase, bookshelf, fill, office supply, shelf, tea pot
+/mnt/d/LOLv2/Real_captured/Train/Normal/00635.png	/mnt/d/LOLv2/Real_captured/Train/Low/00635.png	backpack, bag, book, bookcase, bookshelf, fill, office supply, shelf, tea pot
+/mnt/d/LOLv2/Real_captured/Train/Normal/00636.png	/mnt/d/LOLv2/Real_captured/Train/Low/00636.png	backpack, bag, book, bookcase, bookshelf, fill, office supply, shelf, tea pot
+/mnt/d/LOLv2/Real_captured/Train/Normal/00637.png	/mnt/d/LOLv2/Real_captured/Train/Low/00637.png	blanket, canopy, slipper, cloth, curtain, floor, hide, room, running shoe, sandal, shoe, veil
+/mnt/d/LOLv2/Real_captured/Train/Normal/00638.png	/mnt/d/LOLv2/Real_captured/Train/Low/00638.png	blanket, canopy, slipper, cloth, curtain, floor, hide, net, room, running shoe, sandal, shoe, veil
+/mnt/d/LOLv2/Real_captured/Train/Normal/00639.png	/mnt/d/LOLv2/Real_captured/Train/Low/00639.png	boot, box, cardboard box, counter top, floor, footprint, heel, shoe, shoe box
+/mnt/d/LOLv2/Real_captured/Train/Normal/00640.png	/mnt/d/LOLv2/Real_captured/Train/Low/00640.png	boot, box, cardboard box, counter top, floor, footprint, heel, shoe, shoe box
+/mnt/d/LOLv2/Real_captured/Train/Normal/00641.png	/mnt/d/LOLv2/Real_captured/Train/Low/00641.png	boot, box, cardboard box, counter top, floor, footprint, heel, shoe, shoe box
+/mnt/d/LOLv2/Real_captured/Train/Normal/00642.png	/mnt/d/LOLv2/Real_captured/Train/Low/00642.png	boot, box, cardboard box, counter top, floor, footprint, heel, shoe, shoe box
+/mnt/d/LOLv2/Real_captured/Train/Normal/00643.png	/mnt/d/LOLv2/Real_captured/Train/Low/00643.png	boot, box, cardboard box, counter top, floor, footprint, heel, shoe, shoe box
+/mnt/d/LOLv2/Real_captured/Train/Normal/00644.png	/mnt/d/LOLv2/Real_captured/Train/Low/00644.png	boot, box, cardboard box, counter top, floor, footprint, heel, shoe, shoe box
+/mnt/d/LOLv2/Real_captured/Train/Normal/00645.png	/mnt/d/LOLv2/Real_captured/Train/Low/00645.png	animal, bed, bedcover, blanket, comfort, pad, doll, lay, pillow, pink, sit, stuff, teddy, throw pillow, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00646.png	/mnt/d/LOLv2/Real_captured/Train/Low/00646.png	animal, bed, bedcover, blanket, comfort, pad, doll, lay, pillow, pink, sit, stuff, teddy, throw pillow, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00647.png	/mnt/d/LOLv2/Real_captured/Train/Low/00647.png	bed, bedcover, bedding, blanket, blue, canopy, canopy bed, cloth, comfort, curtain, net, pillow, quilt, sheet, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00648.png	/mnt/d/LOLv2/Real_captured/Train/Low/00648.png	bed, bedcover, bedding, blanket, blue, canopy, canopy bed, cloth, comfort, curtain, net, pillow, quilt, room, sheet
+/mnt/d/LOLv2/Real_captured/Train/Normal/00649.png	/mnt/d/LOLv2/Real_captured/Train/Low/00649.png	bed, bedcover, bedding, blanket, blue, cloth, comfort, curtain, pillow, quilt, sheet
+/mnt/d/LOLv2/Real_captured/Train/Normal/00650.png	/mnt/d/LOLv2/Real_captured/Train/Low/00650.png	animal, bag, baseball glove, bed, bedcover, blanket, boot, doll, fur, glove, lay, pillow, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00651.png	/mnt/d/LOLv2/Real_captured/Train/Low/00651.png	animal, bag, baseball glove, bed, bedcover, blanket, boot, clothe, doll, fur, glove, lay, pillow, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00652.png	/mnt/d/LOLv2/Real_captured/Train/Low/00652.png	animal, bag, baseball glove, bed, bedcover, blanket, boot, clothe, doll, fur, glove, lay, pillow, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00653.png	/mnt/d/LOLv2/Real_captured/Train/Low/00653.png	animal, bag, baseball glove, bed, bedcover, blanket, boot, clothe, doll, fur, glove, lay, pillow, stuff, teddy, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00654.png	/mnt/d/LOLv2/Real_captured/Train/Low/00654.png	animal, bed, bedcover, blanket, clothe, clothing, comfort, doll, lay, pillow, sleepwear, stuff, teddy, toy, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00655.png	/mnt/d/LOLv2/Real_captured/Train/Low/00655.png	animal, bed, bedcover, blanket, clothe, clothing, comfort, doll, lay, pillow, sleepwear, stuff, teddy, toy, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00656.png	/mnt/d/LOLv2/Real_captured/Train/Low/00656.png	battery, bed, bedcover, blanket, bottle, can, cloth, lay, pillow, torch, toy, tube, yellow
+/mnt/d/LOLv2/Real_captured/Train/Normal/00657.png	/mnt/d/LOLv2/Real_captured/Train/Low/00657.png	battery, bed, bedcover, blanket, bottle, can, cloth, lay, pillow, scissors, tool, torch, toy, tube, yellow
+/mnt/d/LOLv2/Real_captured/Train/Normal/00658.png	/mnt/d/LOLv2/Real_captured/Train/Low/00658.png	bag, bin, bottle, bureau, closet, drawer, floor, hang, radiator, red, tote bag
+/mnt/d/LOLv2/Real_captured/Train/Normal/00659.png	/mnt/d/LOLv2/Real_captured/Train/Low/00659.png	bag, bin, bottle, bureau, closet, drawer, floor, hang, radiator, red, tote bag
+/mnt/d/LOLv2/Real_captured/Train/Normal/00660.png	/mnt/d/LOLv2/Real_captured/Train/Low/00660.png	blue, bowling, bowling alley, bowling ball, chair, pillar, table, floor, peak, pin, room, round table, stool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00661.png	/mnt/d/LOLv2/Real_captured/Train/Low/00661.png	blue, bowling, bowling alley, bowling ball, chair, pillar, table, floor, peak, pin, room, round table, stool
+/mnt/d/LOLv2/Real_captured/Train/Normal/00662.png	/mnt/d/LOLv2/Real_captured/Train/Low/00662.png	bulletin board, keyboard, computer monitor, number, display, electronic, sign
+/mnt/d/LOLv2/Real_captured/Train/Normal/00663.png	/mnt/d/LOLv2/Real_captured/Train/Low/00663.png	bulletin board, keyboard, computer monitor, number, display, electronic, sign
+/mnt/d/LOLv2/Real_captured/Train/Normal/00664.png	/mnt/d/LOLv2/Real_captured/Train/Low/00664.png	arcade machine, bowling alley, bulletin board, chair, table, electronic, equipment, floor, footstall, machine, room, stool, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00665.png	/mnt/d/LOLv2/Real_captured/Train/Low/00665.png	arcade machine, bowling alley, bulletin board, chair, table, electronic, equipment, floor, footstall, machine, room, stool, white
+/mnt/d/LOLv2/Real_captured/Train/Normal/00666.png	/mnt/d/LOLv2/Real_captured/Train/Low/00666.png	alley, ball, bowl, bowling, bowling alley, bowling ball, roll, corridor, driveway, floor, pin, red
+/mnt/d/LOLv2/Real_captured/Train/Normal/00667.png	/mnt/d/LOLv2/Real_captured/Train/Low/00667.png	alley, ball, bowl, bowling, bowling alley, bowling ball, roll, corridor, driveway, floor, pin, red
+/mnt/d/LOLv2/Real_captured/Train/Normal/00668.png	/mnt/d/LOLv2/Real_captured/Train/Low/00668.png	alley, balloon, bowl, bowling, bowling alley, bowling ball, roll, driveway, hot, pin
+/mnt/d/LOLv2/Real_captured/Train/Normal/00669.png	/mnt/d/LOLv2/Real_captured/Train/Low/00669.png	alley, balloon, bowl, bowling, bowling alley, bowling ball, roll, driveway, hot, pin
+/mnt/d/LOLv2/Real_captured/Train/Normal/00670.png	/mnt/d/LOLv2/Real_captured/Train/Low/00670.png	wall, ceiling, clothe, clothing, clothing store, display, dress, garment, hang, hanger, polka dot, shirt, store, tile wall
+/mnt/d/LOLv2/Real_captured/Train/Normal/00671.png	/mnt/d/LOLv2/Real_captured/Train/Low/00671.png	wall, ceiling, clothe, clothing, clothing store, display, dress, garment, hang, hanger, polka dot, shirt, store, tile wall
+/mnt/d/LOLv2/Real_captured/Train/Normal/00672.png	/mnt/d/LOLv2/Real_captured/Train/Low/00672.png	cheerlead, figurine, foosball, football field, football game, game, miniskirt, miniature, play, playingfield, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00673.png	/mnt/d/LOLv2/Real_captured/Train/Low/00673.png	cheerlead, figurine, foosball, football field, football game, game, miniskirt, miniature, play, playingfield, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00674.png	/mnt/d/LOLv2/Real_captured/Train/Low/00674.png	cheerlead, figurine, foosball, football field, football game, game, miniskirt, miniature, play, playingfield, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00675.png	/mnt/d/LOLv2/Real_captured/Train/Low/00675.png	cheerlead, figurine, foosball, football field, football game, game, miniskirt, miniature, play, playingfield, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00676.png	/mnt/d/LOLv2/Real_captured/Train/Low/00676.png	figurine, foosball, football field, football game, game, miniskirt, miniature, play, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00677.png	/mnt/d/LOLv2/Real_captured/Train/Low/00677.png	figurine, foosball, football field, football game, game, miniskirt, miniature, play, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00678.png	/mnt/d/LOLv2/Real_captured/Train/Low/00678.png	bin, bottle, box, cardboard box, cereal, container, table, fill, liquid, package, plastic, pretzel, straw, toy, tray
+/mnt/d/LOLv2/Real_captured/Train/Normal/00679.png	/mnt/d/LOLv2/Real_captured/Train/Low/00679.png	bin, bottle, box, cardboard box, cereal, container, table, fill, liquid, package, plastic, pretzel, straw, toy, tray
+/mnt/d/LOLv2/Real_captured/Train/Normal/00680.png	/mnt/d/LOLv2/Real_captured/Train/Low/00680.png	animal, display, doll, shelf, shelve, showcase, store, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00681.png	/mnt/d/LOLv2/Real_captured/Train/Low/00681.png	animal, display, doll, shelf, shelve, showcase, store, stuff, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00682.png	/mnt/d/LOLv2/Real_captured/Train/Low/00682.png	arcade machine, chip, foosball, football field, football game, game, miniskirt, miniature, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00683.png	/mnt/d/LOLv2/Real_captured/Train/Low/00683.png	arcade machine, chip, foosball, football field, football game, game, miniskirt, miniature, toy
+/mnt/d/LOLv2/Real_captured/Train/Normal/00684.png	/mnt/d/LOLv2/Real_captured/Train/Low/00684.png	bag, cereal, chip, food, package, shelf, shelve, snack, store, toy, treat
+/mnt/d/LOLv2/Real_captured/Train/Normal/00685.png	/mnt/d/LOLv2/Real_captured/Train/Low/00685.png	bag, cereal, chip, food, package, shelf, shelve, snack, store, toy, treat
+/mnt/d/LOLv2/Real_captured/Train/Normal/00686.png	/mnt/d/LOLv2/Real_captured/Train/Low/00686.png	shield, case, comic book character, number, display, display window, doll, figurine, shop window, showcase, stool, superhero, toy, window display
+/mnt/d/LOLv2/Real_captured/Train/Normal/00687.png	/mnt/d/LOLv2/Real_captured/Train/Low/00687.png	shield, case, comic book character, number, display, display window, doll, figurine, shop window, showcase, stool, superhero, toy, window display
+/mnt/d/LOLv2/Real_captured/Train/Normal/00688.png	/mnt/d/LOLv2/Real_captured/Train/Low/00688.png	building, canteen, ceiling, chair, corridor, table, floor, glass building, glass wall, line, office building, rail, room, row, stool, window
+/mnt/d/LOLv2/Real_captured/Train/Normal/00689.png	/mnt/d/LOLv2/Real_captured/Train/Low/00689.png	building, canteen, ceiling, chair, corridor, table, floor, glass building, glass wall, line, office building, rail, room, row, stool, window
