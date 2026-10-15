@@ -5,18 +5,20 @@
 #   色度用"区域在线性光下取平均后的 C*", 不受逐像素噪声抬高色度的影响.
 #   3x3+偏置 的留出拟合外推时本身会去饱和 (ReDDiT 也会掉 0.1-0.2), 逐通道增益的留出拟合对 ReDDiT 无偏, 以它为准.
 # GT 与低光输入取自 ReDDiT 测试结果目录 (按文件名排序, 序号 k 对应 id 00689+k; 低光图去掉上下 8、左右 4 像素的 padding).
+# Diff-Retinex 的 100 张输出在提交 25a64fa 之后从 master 删除, 缺失时跳过; 结果 txt 里的 Diff-Retinex 行用的是 25a64fa 中的文件.
 # 用法 (仓库根目录): python analysis/holdout_fit_00739.py
-import numpy as np
+import os, numpy as np
 from PIL import Image
 from skimage.color import rgb2lab
 from scipy.ndimage import binary_dilation, distance_transform_edt
 RD='ReDDiT/experiments/lolv2_test_real/lolv2_test_real_numstep_4_w_snr_0.2_w_gt_0.2_w_lpips_0.1_260921_193705/results'
 RX='Retinexformer/results_color_exp'
 L=lambda p: np.asarray(Image.open(p).convert('RGB')).astype(float)/255
-METHODS={'Retinexformer':'orig','RF-A':'A','RF-A200':'A_seed200','RF-B':'B','RF-B200':'B_seed200','RF-C':'C','RF-D':'D','Diff-Retinex':'Diff-Retinex','ReDDiT':'ReDDiT'}
+METHODS={'Retinexformer':'orig','RF-A':'A','RF-A200':'A_seed200','RF-B':'B','RF-B200':'B_seed200','RF-C':'C','RF-D':'D','HVI':'HVI','Diff-Retinex':'Diff-Retinex','ReDDiT':'ReDDiT'}
 def path(m,i):
     d=METHODS[m]
     if d=='ReDDiT': return f'{RD}/output/{int(i)-689}_normal.png'
+    if d=='HVI': return f'HVI-CIDNet/output/HVIFirst/{i}.png'
     if d=='Diff-Retinex': return f'Diff-Retinex/experiments/Diff_Retinex_val_261008_104214/results/{i}.png'
     return f'{RX}/{d}/test/{i}.png'
 def lin(x): return np.where(x<=0.04045,x/12.92,((x+0.055)/1.055)**2.4)
@@ -30,6 +32,7 @@ wall=np.load('analysis/wall_mask_00739.npy'); near=binary_dilation(wall,iteratio
 neutral=(np.hypot(lg[...,1],lg[...,2])<6)&~near
 fm=blk((~near)[...,None].astype(float))[...,0]>0.999
 Cg=chroma_of_mean(g,wall)
+for m in [m for m in METHODS if not os.path.exists(path(m,i))]: print(f'缺少 {m} 的输出 ({path(m,i)}), 跳过'); METHODS.pop(m)
 print(f'黄墙像素 {wall.sum()}, 墙外(扩 15px 后)用于拟合的 8x8 块 {fm.sum()}, 墙外 GT 中性像素 {neutral.sum()}; GT 黄墙区域均值色度 C*={Cg:.1f}\n')
 print('方法            原始 | 墙外拟合: 逐通道增益 | 墙外拟合: 3x3+偏置(参考) || 墙外中性像素 Δa*   Δb*')
 for m in METHODS:
