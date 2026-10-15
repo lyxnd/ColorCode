@@ -1,0 +1,42 @@
+# ColorCode 根目录 .gitignore
+# 提交：代码、配置、分析脚本、文档、各模型的预训练权重（≤100MB）
+# 不提交：数据集、推理输入、日志、缓存（测试输出会提交，但其中的日志和 TensorBoard 文件仍忽略）
+
+# ===== 模型权重 =====
+# 各模型的 .pth 都提交；只排除超过 GitHub 单文件 100MB 上限的（需 Git LFS 才能上传）
+Diff-Retinex/model/Diff_RDA/weights/best_gen.pth
+
+# ===== 数据集 =====
+ReDDiT/dataset/
+Diff-Retinex/test_dataset/
+
+# ===== 推理输入、训练中间结果（体积大、可重新生成；测试输出 output/results/experiments 会提交）=====
+ReDDiT/input/
+ReDDiT/temp/
+Diff-Retinex/input/
+HVI-CIDNet/input/
+HVI-CIDNet/pic/
+TADSR/experience/
+TADSR/preset/datasets/
+
+# ===== 日志 / TensorBoard / 缓存 =====
+*.log
+logs/
+tb_logger/
+events.out.tfevents.*
+*.pid
+wandb/
+analysis/consistency_cache/
+
+# ===== Python / IDE / 系统文件 =====
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== 子目录原有的 git 仓库（已改名保留，不提交）=====
+.git_upstream/
