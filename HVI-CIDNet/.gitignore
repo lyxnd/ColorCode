@@ -160,7 +160,5 @@ cython_debug/
 #.idea/
 
 results
-output
-weights
 flagged
 output_hf
