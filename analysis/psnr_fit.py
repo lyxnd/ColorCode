@@ -3,7 +3,7 @@ from PIL import Image
 A='/mnt/user-data/uploads/LLIE_Color/assets/'
 ids=['00739','00749','00750','00751','00752']
 L=lambda p: np.asarray(Image.open(p).convert('RGB')).astype(float)/255
-methods={'CWNet':'cwnet/low{}.png','HVI':'hvi/{}.png','Retinexformer':'retinexformer/{}.png','Diff-Retinex':'diff-retinex/{}.png','ReDDiT':'reddit/{}.png'}
+methods={'CWNet':'cwnet/low{}.png','HVI':'hvi/{}.png','Retinexformer':'retinexformer/{}.png','Diff-Retinex':'output/{}.png','ReDDiT':'reddit/{}.png'}
 ps=lambda a,b:10*np.log10(1/np.mean((a-b)**2))
 print('方法            原始PSNR  仅亮度标量校正  逐通道增益校正  全局3x3+偏置校正')
 for m,p in methods.items():
