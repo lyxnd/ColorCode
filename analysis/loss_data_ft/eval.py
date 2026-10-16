@@ -26,10 +26,13 @@ GTL={i:rgb2lab(gt(i)) for i in IDS}; NEU={i:(np.hypot(GTL[i][...,1],GTL[i][...,2
 psnr=lambda a,b: 10*np.log10(1/np.mean((a-b)**2))
 EX=[i for i in IDS if i not in ('00739','00740')]
 lines=[]; P=lambda s='': (print(s,flush=True),lines.append(s))
-res={}; crops={}
+res={}; crops={}; import pickle; CA='analysis/loss_data_ft/eval_cache'; os.makedirs(CA,exist_ok=True)   # 每组结果落盘, 中断后重跑会跳过已完成的
 for name,ck in MODELS.items():
-    net=build_rf(ck).eval()
+    net=None
     for c in ['raw','debias']:
+        cf=f'{CA}/{name}_{c}.pkl'
+        if os.path.exists(cf): res[(name,c)],crops[(name,c)]=pickle.load(open(cf,'rb')); continue
+        net=net or build_rf(ck).eval()
         outs={i:run(net,inp(i,c)) for i in IDS}
         T={i:block_stats(low(i),gt(i),{'o':outs[i]}) for i in IDS}
         cat=lambda ids: {k:np.concatenate([T[i][k] for i in ids]) for k in T[ids[0]]}
@@ -41,6 +44,8 @@ for name,ck in MODELS.items():
             for hb in range(8):
                 s=(d['lvl']<8)&(cc>=20)&((h-hb*45)%360<45)
                 if s.sum()>=15: units.append((ratio(d,'gt',s),ratio(d,'o',s)))
+        per=[(ratio(T[i],'gt',s),ratio(T[i],'o',s)) for i in EX for s in [dark_sel(T[i],3,8)] if s.sum()>=20]   # 每张图一个比例: 能否按图判断
+        pa=np.array(per); r['rho_img']=spearmanr(pa[:,0],pa[:,1])[0]; r['n_img']=len(pa)
         u=np.array(units); r['rho']=spearmanr(u[:,0],u[:,1])[0]; r['trust']=np.median(u[u[:,0]>0.8,1]); r['fake']=np.median(u[u[:,0]<0.4,1]); r['nu']=len(u)
         da=[(rgb2lab(outs[i])[NEU[i]]-GTL[i][NEU[i]]).mean(0)[1:] for i in IDS if NEU[i].sum()>=500]; r['neu']=np.mean(da,0)
         if c=='raw':
@@ -48,11 +53,11 @@ for name,ck in MODELS.items():
             for k in [0.5,1,2,4,8]:
                 x=low('00739').copy(); x[wall]=np.clip(np.round(x[wall]*255*k),0,255)/255; sw.append(ret(run(net,x)))
             r['sweep']=sw
-        res[(name,c)]=r; crops[(name,c)]=outs['00739'][40:360,:]
+        res[(name,c)]=r; crops[(name,c)]=outs['00739'][40:360,:]; pickle.dump((r,crops[(name,c)]),open(cf,'wb'))
         print(name,c,{k:(np.round(v,3) if not isinstance(v,tuple) else v) for k,v in r.items()},flush=True)
 
 u0=res[('官方','raw')]
-P(f'测试集暗部单元 {u0["nu"]} 个 (不含 00739/00740); 00739 底座 (DN) {(TO["00739"]*12.92*255).round(2)}')
+P(f'测试集暗部单元 {u0["nu"]} 个, 按图统计 {u0["n_img"]} 张 (3-8DN 块 >=20, 均不含 00739/00740); 00739 底座 (DN) {(TO["00739"]*12.92*255).round(2)}')
 P('\n== 1-2) 00739 黄墙保持率; 墙亮度 x k 的收缩曲线 (原始输入)')
 P(f'{"模型":12s} 墙(原始输入) 墙(去底座输入) | k=0.5   1     2     4     8')
 for name in MODELS:
@@ -61,11 +66,11 @@ for name in MODELS:
 for c,t in [('raw','原始输入'),('debias','去底座输入 (oracle)')]:
     P(f'\n== 3-5) 测试集, 网络输入 = {t}')
     g=res[('官方',c)]
-    P(f'{"模型":12s} 3-5DN  5-8DN  8-12DN | 单元 Spearman  可信单元  虚高单元 | 中性区 Δa*  Δb* | PSNR 全部  未见')
+    P(f'{"模型":12s} 3-5DN  5-8DN  8-12DN | 单元 Spearman  按图 Spearman  可信单元  虚高单元 | 中性区 Δa*  Δb* | PSNR 全部  未见')
     P(f'{"测试 GT":12s} {g["bin3"][0]:.2f}   {g["bin5"][0]:.2f}   {g["bin8"][0]:.2f}   |')
     for name in MODELS:
         r=res[(name,c)]
-        P(f'{name:12s} {r["bin3"][1]:.2f}   {r["bin5"][1]:.2f}   {r["bin8"][1]:.2f}   |    {r["rho"]:+.2f}        {r["trust"]:.2f}      {r["fake"]:.2f}  |  {r["neu"][0]:+5.1f} {r["neu"][1]:+5.1f}  |  {r["psnr"]:.2f}  {r["psnr_u"]:.2f}')
+        P(f'{name:12s} {r["bin3"][1]:.2f}   {r["bin5"][1]:.2f}   {r["bin8"][1]:.2f}   |    {r["rho"]:+.2f}         {r["rho_img"]:+.2f}         {r["trust"]:.2f}      {r["fake"]:.2f}  |  {r["neu"][0]:+5.1f} {r["neu"][1]:+5.1f}  |  {r["psnr"]:.2f}  {r["psnr_u"]:.2f}')
 open('analysis/loss_data_ft/results.txt','w').write('\n'.join(lines)+'\n')
 from PIL import Image
 names=[n for n in MODELS if '@1000' not in n]

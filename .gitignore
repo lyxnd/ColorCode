@@ -45,3 +45,5 @@ desktop.ini
 analysis/loss_data_ft/runs/*/last.pth*
 analysis/loss_data_ft/runs/*/G_500.pth
 analysis/loss_data_ft/runs/*/G_1500.pth
+analysis/loss_data_ft/eval_cache/
+analysis/loss_data_ft/eval_stdout.txt
