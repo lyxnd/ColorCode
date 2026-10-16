@@ -29,7 +29,12 @@ def run(net,img): return net(torch.from_numpy(np.ascontiguousarray(img.transpose
 K=[1,2,4,8]; rows=[]
 print(f'输入整图平均 {lo.mean()*255:.1f}/255; GT 黄墙色相 {np.degrees(np.arctan2(*labm(g,wall)[[2,1]])):.1f}°, GT 全图平均 L*={lg[...,0].mean():.1f}')
 print('权重              曝光 | 墙保持率 墙色相差 | 暗中性区 Δa* Δb* | 亮中性区 Δa* Δb* | 输出平均 L*')
+import hashlib
+uniq={}   # 按文件内容去重 (LOL_v2.pth 与 LOL_v2_real.pth 是同一份), 保留名字更长的
 for ck in sorted(glob.glob('Retinexformer/pretrained_weights/*.pth')):
+    h=hashlib.md5(open(ck,'rb').read()).hexdigest()
+    if h not in uniq or len(ck)>len(uniq[h]): uniq[h]=ck
+for ck in sorted(uniq.values()):
     name=os.path.basename(ck)[:-4]
     net=rfm.RetinexFormer(in_channels=3,out_channels=3,n_feat=40,stage=1,num_blocks=[1,2,2])
     net.load_state_dict({k.replace('module.',''):v for k,v in torch.load(ck,map_location='cpu',weights_only=False)['params'].items()}); net.eval()
