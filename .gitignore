@@ -43,3 +43,5 @@ desktop.ini
 
 # 损失/数据对照微调: 续训存档 (含判别器与优化器状态) 不提交, 只提交 G_*.pth
 analysis/loss_data_ft/runs/*/last.pth*
+analysis/loss_data_ft/runs/*/G_500.pth
+analysis/loss_data_ft/runs/*/G_1500.pth
