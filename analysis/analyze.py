@@ -5,7 +5,7 @@ A='/mnt/user-data/uploads/LLIE_Color/assets/'
 W='/tmp/claude-0/work/'
 gt={'00739':np.load(W+'gt_stair.npy'),'00749':np.load(W+'gt_pool0.npy'),'00750':np.load(W+'gt_pool1.npy'),
     '00751':np.load(W+'gt_pool2.npy'),'00752':np.load(W+'gt_pool3.npy')}
-methods={'CWNet':'cwnet/low{}.png','HVI':'hvi/{}.png','Retinexformer':'retinexformer/{}.png','Diff-Retinex':'diff-retinex/{}.png','ReDDiT':'reddit/{}.png'}
+methods={'CWNet':'cwnet/low{}.png','HVI':'hvi/{}.png','Retinexformer':'retinexformer/{}.png','Diff-Retinex':'output/{}.png','ReDDiT':'reddit/{}.png'}
 def load(m,i): return np.asarray(Image.open(A+methods[m].format(i)).convert('RGB')).astype(float)/255
 def lch(x):
     L=rgb2lab(x); C=np.hypot(L[...,1],L[...,2]); h=np.degrees(np.arctan2(L[...,2],L[...,1])); return L,C,h

@@ -4,7 +4,7 @@ from skimage.color import rgb2lab, deltaE_ciede2000
 A='/mnt/user-data/uploads/LLIE_Color/assets/'
 ids=['00739','00749','00750','00751','00752']
 L=lambda p: np.asarray(Image.open(p).convert('RGB')).astype(float)/255
-methods={'CWNet':'cwnet/low{}.png','HVI':'hvi/{}.png','Retinexformer':'retinexformer/{}.png','Diff-Retinex':'diff-retinex/{}.png','ReDDiT':'reddit/{}.png'}
+methods={'CWNet':'cwnet/low{}.png','HVI':'hvi/{}.png','Retinexformer':'retinexformer/{}.png','Diff-Retinex':'output/{}.png','ReDDiT':'reddit/{}.png'}
 def lin(x): return np.where(x<=0.04045,x/12.92,((x+0.055)/1.055)**2.4)
 def srgb(x): x=np.clip(x,0,1); return np.where(x<=0.0031308,12.92*x,1.055*x**(1/2.4)-0.055)
 print('== 色偏传递: 输入只做"单一标量增益"(不校白平衡)后相对GT的 a*,b* 偏差  vs  各方法输出相对GT的 a*,b* 偏差')

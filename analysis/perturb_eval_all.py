@@ -31,7 +31,7 @@ for m,pat in M.items():
             dm=(p-r).reshape(-1,3).mean(0); d.append([*dm,deltaE_ciede2000(r,p).mean()])
         n=len(d); d=np.mean(d,0); print(f'  {k:7s} ΔL={d[0]:+6.2f} Δa*={d[1]:+6.2f} Δb*={d[2]:+6.2f} ΔE00={d[3]:5.2f} (n={n})')
 print('\n各方法 ref 输入的结果 vs 原先跑出的结果 (检查推理一致性/随机性), ΔE00:')
-old={'HVI':'assets/hvi/{}.png','Retinexformer':'assets/retinexformer/{}.png','Diff-Retinex':'assets/diff-retinex/{}.png','ReDDiT':'assets/reddit/{}.png'}
+old={'HVI':'assets/hvi/{}.png','Retinexformer':'assets/retinexformer/{}.png','Diff-Retinex':'assets/output/{}.png','ReDDiT':'assets/reddit/{}.png'}
 for m in M:
     v=[]
     for i in ids:

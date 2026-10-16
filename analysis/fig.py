@@ -2,7 +2,7 @@ import numpy as np, matplotlib; matplotlib.use('Agg'); import matplotlib.pyplot 
 from PIL import Image
 from skimage.color import rgb2lab, deltaE_ciede2000
 A='/mnt/user-data/uploads/LLIE_Color/assets/'; W='/tmp/claude-0/work/'
-methods={'CWNet':'cwnet/low{}.png','HVI':'hvi/{}.png','Retinexformer':'retinexformer/{}.png','Diff-Retinex':'diff-retinex/{}.png','ReDDiT':'reddit/{}.png'}
+methods={'CWNet':'cwnet/low{}.png','HVI':'hvi/{}.png','Retinexformer':'retinexformer/{}.png','Diff-Retinex':'output/{}.png','ReDDiT':'reddit/{}.png'}
 gtf={'00739':'gt_stair.npy','00751':'gt_pool2.npy','00752':'gt_pool3.npy'}
 def load(m,i): return np.asarray(Image.open(A+methods[m].format(i)).convert('RGB')).astype(float)/255
 for i,f in gtf.items():
