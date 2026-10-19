@@ -48,3 +48,6 @@ analysis/loss_data_ft/runs/*/G_1500.pth
 analysis/loss_data_ft/eval_cache/
 analysis/loss_data_ft/eval_stdout.txt
 analysis/leakage_v2_cache/
+analysis/alignment_intervention/data/
+analysis/alignment_intervention/inputs/*.png
+analysis/alignment_intervention/outputs_*/
