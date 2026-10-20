@@ -1,7 +1,8 @@
 # 偏置校正是否去掉了"暗部颜色虚高": 校正前后训练集 (和测试集) 的 GT 色度 / 输入暗示色度, 按输入亮度分档
-# 用法 (仓库根目录): python analysis/loss_data_ft/check_debias.py
+# 用法 (仓库根目录): python analysis/loss_data_ft/check_debias.py   结果: analysis/loss_data_ft/check_debias.txt
 import sys, os, numpy as np; sys.path.insert(0,os.path.dirname(__file__)); from common import *
 names=sorted(os.listdir(f'{TR}/Low')); O=[]; raw=[]; cor=[]
+_lines=[]; print=(lambda f: (lambda *a,**k: (f(*a,**k),_lines.append(' '.join(map(str,a))))))(print)
 for n in names:
     lo,g=L(f'{TR}/Low/{n}'),L(f'{TR}/Normal/{n}'); o=dark_offset(lo,g); O.append(o)
     raw.append(block_stats(lo,g)); cor.append(block_stats(debias(lo,o),g))
@@ -23,3 +24,4 @@ for lo_,hi_ in [(3,5),(5,8)]:
     sr,sc=dark_sel(R,lo_,hi_),dark_sel(C,lo_,hi_)
     print(f'  测试(不含00739/40) {lo_}-{hi_}DN  原始 {ratio(R,"gt",sr):.2f} ({sr.sum()} 块)   校正后 {ratio(C,"gt",sc):.2f} ({sc.sum()} 块)')
 print(f'  00739 底座 (DN): {(TO["00739"]*12.92*255).round(2)}')
+open('analysis/loss_data_ft/check_debias.txt','w').write('\n'.join(_lines)+'\n')
