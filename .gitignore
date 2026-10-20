@@ -51,3 +51,6 @@ analysis/leakage_v2_cache/
 analysis/alignment_intervention/data/
 analysis/alignment_intervention/inputs/*.png
 analysis/alignment_intervention/outputs_*/
+
+# 训练集分析脚本的模型推理缓存
+analysis/train_model_cache/
